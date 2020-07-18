@@ -1,0 +1,24 @@
+Bitcoin mining:Bitcoin mining indirectly enforces the consistency of BTC transactions.
+Mining incentives:
+For each block they add to the blockchain, miners receive two rewards:
+Block reward: 
+This was originally 50 BTCs in 2009, but the reward halves every 210,000 blocks, which occurs about every four years.78 percent of BTCs have been mined, and 99 percent of all BTCs will be mined by 2032.
+Transaction fees:
+Are paid by Bitcoin users as a kind of tip to motivate the miner to incorporate their transaction into the block.
+Block generation: 
+Miners must find a nonce value that makes a double SHA-256 hash of the block’s header be less than (65535 << 208)/difculty
+
+What hardware did miners start with? What did they move to? How quickly were these changes?:
+CPUs, GPUs, field-programmable gate arrays (FPGAs), and application-specific integrated circuits (ASICs) in different VLSI nodes(130-nm,110nm,65nm,55nm,28nm,22nm,20nm,16nm)
+intially CPUs,2010 GPUs,2011 FGPAs,The frst ASIC miner debuted in January 2013 in 130-nm VLSI technology, in 2015 16-nm VLSI were introduced.
+
+THE ECONOMICS OF BITCOIN MINING:
+With Bitcoin’s exponential increase in hashing difculty, a rig’s ability to generate BTCs drops exponentially over time. 
+
+Generations of Miners:
+CPUs: first-generation miners
+GPUs: second-generation miners
+FPGAs: third-generation miners
+THE ASIC RACE: FOURTH GENERATION BITCOIN MINERS
+THE ASIC WAR: FIFTH GENERATION BITCOIN MINERS
+THE ASIC VICTORS: SIXTH GENERATION BITCOIN MINERS  

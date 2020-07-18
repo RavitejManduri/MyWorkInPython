@@ -1,0 +1,18 @@
+Data Link:
+https://data.world/akashdmukherjee/animals/workspace/file?filename=dataset_102a_100K.csv
+
+DATA DISCOVERY:
+By searching the required domains in data world website I came across this dataset
+DATA is free to download, Getting and using data doesn't violate terms of service. Documented EDA is not available for the data.But we should login with any gmail to get the data
+
+Size of Data:
+6.71 MB and  10 columns, 100000 rows in table
+
+Context:
+The data is about the animals and their type in all countries.
+
+1.higher the population higher the number of zoos in the country?
+2.Elephant is the animal with most population?
+3.china has most no of zoos
+4.China has most no of different ethnicity
+5.China has most no of dogs, cats ,elephant ,horse and rabbit

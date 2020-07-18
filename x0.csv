@@ -1,0 +1,1401 @@
+,A,B,C,D,E,F,G,H,I,J
+0,Fuchsia,Crimson,Pea green,Green,Blue,Magenta,Blue,Fuchsia,Pea green,Black
+1,Khaki,Purple,Silver,Azure,Wheat,Gray,Red,Hot pink,Olive,Cyan
+2,Plum,Yellow,Plum,Olive,Plum,Lime,Purple,Blue,Olive,Azure
+3,Wheat,Brown,Wheat,Purple,Aquamarine,Crimson,Orange,Olden,Aquamarine,Silver
+4,Coral,Plum,Orange,Hot pink,Plum,Crimson,Teal,Olden,Fuchsia,Green
+5,Ivory,Maroon,Blue,Azure,Ivory,Magenta,Purple,Pea green,Azure,Azure
+6,Yellow,Olive,Plum,Orange,Orange,Fuchsia,Orange,Green,Ivory,Aquamarine
+7,Green,Yellow,Plum,Azure,Crimson,Orange,Lime,Magenta,Khaki,Navy blue
+8,Crimson,Hot pink,Gray,Gray,Teal,Maroon,Gray,Navy blue,Teal,Magenta
+9,Charcoal,Coral,Azure,Charcoal,Olive,Green,Blue,Blue,Magenta,Magenta
+10,Hot pink,Fuchsia,Red,Navy blue,Maroon,Yellow,Blue,Cyan,Coral,White
+11,Magenta,Silver,Lime,Pea green,Blue,Magenta,Hot pink,Coral,Crimson,Maroon
+12,Wheat,Blue,Khaki,Black,Blue,Yellow,Purple,Brown,Purple,Navy blue
+13,Khaki,Olive,Coral,Cyan,Khaki,Azure,Orange,Purple,Charcoal,White
+14,Olden,Fuchsia,Charcoal,Ivory,Khaki,Coral,Azure,Fuchsia,Ivory,White
+15,Maroon,Silver,Red,Azure,Azure,Brown,Gray,Orange,Silver,Aquamarine
+16,Cyan,Pea green,Green,Plum,Aquamarine,Cyan,Coral,Black,Gray,Pea green
+17,Olive,Cyan,Ivory,Pea green,Coral,Aquamarine,Green,Olive,Magenta,Red
+18,Azure,Brown,Purple,Red,Pea green,Yellow,Olive,Black,Khaki,Blue
+19,Green,Lime,Maroon,White,Coral,Olive,Khaki,Magenta,Plum,Yellow
+20,Azure,Charcoal,Charcoal,Green,Hot pink,Pea green,Aquamarine,Hot pink,Coral,Magenta
+21,Lime,Lime,Black,Wheat,Pea green,Green,Olive,Olive,Fuchsia,Plum
+22,Brown,Pea green,Cyan,Orange,White,Yellow,Blue,Red,Cyan,Crimson
+23,Charcoal,White,Lime,Charcoal,Magenta,Hot pink,Pea green,Black,Cyan,Gray
+24,Charcoal,Coral,Blue,White,Silver,Wheat,Yellow,Purple,Ivory,Blue
+25,Orange,Plum,Maroon,Green,Charcoal,Plum,Azure,Hot pink,Fuchsia,Brown
+26,Olive,Teal,Yellow,Orange,Yellow,Teal,Crimson,Black,Charcoal,Brown
+27,Pea green,Olden,Olden,Plum,Teal,Hot pink,Olden,Azure,Crimson,Plum
+28,Ivory,Charcoal,Olive,Silver,Charcoal,Blue,Fuchsia,Yellow,Navy blue,Red
+29,Pea green,Silver,Navy blue,Brown,Olden,Magenta,Cyan,Black,Blue,Ivory
+30,Brown,Khaki,Green,Olden,Maroon,Plum,Ivory,Pea green,White,Red
+31,Coral,Lime,Crimson,Crimson,Teal,Maroon,Black,Azure,Hot pink,Charcoal
+32,Wheat,Gray,Purple,Red,Plum,Coral,Pea green,Lime,Green,Coral
+33,Coral,Yellow,Plum,Azure,Crimson,Black,Green,Orange,Charcoal,Fuchsia
+34,White,Black,Crimson,Yellow,Olive,Navy blue,Lime,Pea green,Purple,Lime
+35,Maroon,Khaki,Green,Lime,Ivory,Silver,Yellow,Blue,Teal,Maroon
+36,Hot pink,Coral,Ivory,Olive,Ivory,Teal,Silver,Maroon,Charcoal,Purple
+37,White,Gray,Black,Brown,Crimson,Green,Blue,Maroon,Hot pink,Magenta
+38,Lime,Lime,White,Silver,Olden,White,Silver,Wheat,Green,Navy blue
+39,Azure,Wheat,Maroon,Plum,Brown,Yellow,Maroon,Khaki,Pea green,Olive
+40,White,Olive,Azure,Brown,Magenta,Purple,Gray,Orange,Teal,Ivory
+41,Wheat,Azure,Red,Gray,Coral,Plum,Cyan,Lime,Azure,Olive
+42,Teal,Silver,Aquamarine,Maroon,Olden,Fuchsia,Cyan,Black,Khaki,White
+43,White,Silver,Maroon,Ivory,Crimson,Coral,Olden,Magenta,Magenta,Brown
+44,Purple,Hot pink,Aquamarine,Charcoal,Hot pink,Brown,Black,Crimson,Hot pink,Ivory
+45,Coral,Crimson,Ivory,Blue,Teal,Brown,Coral,Coral,Khaki,Wheat
+46,Fuchsia,Charcoal,Aquamarine,Wheat,Olive,Aquamarine,Crimson,Black,Olive,Crimson
+47,Olden,Cyan,Teal,Plum,Charcoal,Plum,Cyan,Blue,Coral,Navy blue
+48,Yellow,Black,Green,Azure,Coral,Hot pink,Orange,Brown,Cyan,Lime
+49,Yellow,Wheat,Yellow,Gray,Green,Navy blue,Magenta,Azure,Brown,Ivory
+50,Navy blue,Azure,Teal,Plum,Lime,Olden,Azure,Navy blue,Olive,Gray
+51,Olive,Magenta,Aquamarine,Hot pink,Khaki,Orange,Purple,Maroon,Maroon,Red
+52,Orange,Charcoal,Aquamarine,Navy blue,Maroon,Wheat,Brown,Hot pink,Olive,Ivory
+53,Teal,Aquamarine,Magenta,Wheat,Teal,Purple,Gray,Charcoal,Silver,Orange
+54,Plum,Orange,Purple,Silver,Yellow,Crimson,Maroon,Ivory,Green,Plum
+55,Fuchsia,Navy blue,Purple,Maroon,Hot pink,Gray,Yellow,Maroon,Magenta,Yellow
+56,Navy blue,Pea green,Yellow,Olden,Red,Plum,Wheat,Khaki,Lime,Aquamarine
+57,Navy blue,White,Silver,Brown,Purple,Black,Navy blue,Crimson,Teal,Green
+58,Yellow,Plum,Teal,Olden,Lime,Wheat,Coral,Coral,Green,Charcoal
+59,Khaki,Black,Yellow,Khaki,Green,Fuchsia,Maroon,Lime,Plum,Wheat
+60,Ivory,Khaki,Navy blue,Olive,Azure,Wheat,Lime,Cyan,Ivory,Ivory
+61,Orange,Ivory,Magenta,Blue,White,Teal,Orange,Fuchsia,Hot pink,Yellow
+62,Coral,Black,Khaki,Khaki,Ivory,Cyan,Olive,Silver,Khaki,Teal
+63,Orange,Aquamarine,Crimson,Navy blue,Hot pink,Pea green,Magenta,Yellow,Charcoal,Olden
+64,Lime,Wheat,Magenta,Khaki,Navy blue,Hot pink,Yellow,Crimson,Silver,Green
+65,Navy blue,Pea green,Blue,Ivory,White,Aquamarine,Orange,Red,Gray,Gray
+66,Hot pink,Olive,Olden,Maroon,Khaki,Azure,Purple,Brown,Gray,Black
+67,White,Azure,Hot pink,Gray,Lime,Crimson,Lime,Plum,Magenta,Charcoal
+68,Olden,Red,Purple,Lime,Aquamarine,White,Purple,Pea green,Coral,Orange
+69,Aquamarine,Green,Brown,Silver,Green,Pea green,Teal,Cyan,Yellow,Lime
+70,Black,Red,Magenta,Red,Wheat,Cyan,Lime,Cyan,White,White
+71,Gray,Coral,Maroon,Yellow,Hot pink,Maroon,Orange,Red,Azure,Red
+72,Teal,Yellow,Aquamarine,Pea green,Olden,Aquamarine,Purple,Brown,Magenta,Magenta
+73,Khaki,Orange,Magenta,Orange,Plum,Silver,Green,Olden,Navy blue,Olden
+74,Wheat,Purple,Hot pink,Lime,Plum,Gray,Purple,Yellow,Red,Pea green
+75,Aquamarine,Fuchsia,Orange,Olive,Blue,Red,Green,Azure,Azure,Teal
+76,Olden,Fuchsia,Pea green,Gray,Cyan,Purple,Black,Silver,Gray,Charcoal
+77,Olden,Teal,Cyan,Crimson,Navy blue,Lime,Green,Red,Plum,Coral
+78,Aquamarine,Black,Khaki,Charcoal,Ivory,Coral,Olive,Yellow,Olden,Ivory
+79,Ivory,Azure,Hot pink,Charcoal,Plum,White,White,Charcoal,Aquamarine,Magenta
+80,Silver,Blue,Red,Coral,Red,Red,Brown,Charcoal,Azure,Aquamarine
+81,Blue,Yellow,Teal,Purple,Olden,Blue,Lime,Fuchsia,Gray,Hot pink
+82,Orange,Coral,Orange,Purple,Khaki,Yellow,Red,Brown,Gray,Cyan
+83,Olden,Blue,Fuchsia,Purple,Coral,Olden,Crimson,Purple,Yellow,Cyan
+84,White,Crimson,Hot pink,Olive,Cyan,Ivory,Purple,Orange,Green,White
+85,Coral,Purple,Olive,Olive,Coral,Yellow,Maroon,Navy blue,Aquamarine,Khaki
+86,Azure,Wheat,Blue,Coral,Azure,Green,Blue,Yellow,Yellow,Blue
+87,Black,Hot pink,Olden,Hot pink,Lime,Azure,Cyan,Aquamarine,Magenta,Plum
+88,Fuchsia,Coral,White,Aquamarine,Olive,Crimson,Blue,Gray,Orange,Black
+89,Crimson,Azure,Green,Aquamarine,Coral,Teal,Blue,White,Lime,Aquamarine
+90,White,Orange,Crimson,Black,Brown,Maroon,Teal,Gray,Blue,Olden
+91,Green,White,Yellow,Yellow,Yellow,Wheat,Fuchsia,Orange,Teal,Navy blue
+92,Yellow,Hot pink,Brown,Fuchsia,Teal,White,Orange,Teal,Blue,Yellow
+93,Gray,Azure,Red,Pea green,Magenta,Orange,Coral,Gray,Orange,Wheat
+94,Magenta,Maroon,Lime,Plum,Cyan,Olive,Red,Azure,Hot pink,Lime
+95,Khaki,Green,Olive,Azure,Fuchsia,Purple,Pea green,Yellow,Purple,Maroon
+96,Coral,Green,Green,Pea green,Charcoal,Maroon,Cyan,Wheat,Purple,Charcoal
+97,Aquamarine,Green,Khaki,Green,Pea green,Gray,Ivory,Olden,Red,Cyan
+98,Ivory,Azure,Blue,Plum,Cyan,Maroon,Black,Magenta,Navy blue,Silver
+99,Maroon,Maroon,Yellow,Green,Silver,Brown,Olive,Hot pink,Orange,Green
+100,Magenta,Lime,Azure,Wheat,Brown,Blue,Ivory,Teal,Crimson,Purple
+101,Black,Purple,Magenta,White,Yellow,Brown,Aquamarine,Olden,Green,Olive
+102,Pea green,Orange,Khaki,Black,Lime,White,Red,Fuchsia,Magenta,Olive
+103,Navy blue,Green,Yellow,Khaki,Blue,Brown,Wheat,Silver,Navy blue,Magenta
+104,Purple,Teal,Green,Green,Aquamarine,Crimson,Ivory,Cyan,Maroon,Teal
+105,Wheat,Brown,Ivory,Magenta,Teal,Red,Aquamarine,Hot pink,Black,Plum
+106,Orange,Maroon,Olden,Black,Khaki,Orange,Azure,Red,Magenta,Brown
+107,Red,White,Aquamarine,Ivory,Azure,Maroon,Aquamarine,Ivory,Silver,Wheat
+108,Azure,Orange,Olive,Silver,White,Wheat,Blue,Olive,Pea green,Yellow
+109,Teal,Purple,Maroon,Olive,Brown,White,Crimson,Olden,Green,Orange
+110,Red,Charcoal,Orange,Gray,Gray,Ivory,Crimson,Silver,Yellow,Khaki
+111,Azure,Crimson,Orange,Orange,Charcoal,Azure,Magenta,Fuchsia,Blue,Maroon
+112,Plum,Olden,Crimson,Blue,Brown,Purple,Black,Red,Ivory,Olden
+113,Black,Olden,Red,Olive,Silver,Magenta,Blue,Silver,Coral,Purple
+114,Purple,Coral,Olden,Yellow,Plum,Plum,Ivory,Purple,Azure,Orange
+115,Plum,Navy blue,Orange,Maroon,Green,Plum,Fuchsia,Black,Lime,Yellow
+116,Hot pink,Magenta,Orange,Olden,Azure,White,Red,Olden,Orange,Brown
+117,Navy blue,Blue,Blue,Charcoal,Olive,Orange,Yellow,Coral,Aquamarine,Cyan
+118,Fuchsia,Pea green,Plum,Green,Black,Aquamarine,Gray,Olden,Teal,Magenta
+119,Olive,Green,Ivory,Crimson,Teal,Gray,Blue,Brown,Magenta,Wheat
+120,Green,Navy blue,Pea green,Black,Cyan,Orange,Purple,Wheat,Plum,Green
+121,Coral,Brown,Aquamarine,Plum,Teal,Blue,Navy blue,Coral,Green,Olden
+122,Magenta,Cyan,Pea green,Crimson,Maroon,Aquamarine,Coral,Silver,Olden,White
+123,Teal,Gray,Ivory,Maroon,Lime,Olive,Cyan,Red,Coral,Green
+124,Charcoal,Olden,Fuchsia,Aquamarine,Lime,Maroon,Plum,Orange,Crimson,Brown
+125,Coral,Navy blue,Purple,Aquamarine,Silver,Olive,Blue,Olive,Coral,Gray
+126,Khaki,Yellow,Orange,Wheat,Wheat,Maroon,Hot pink,Olden,Cyan,Black
+127,Teal,Ivory,Yellow,Silver,Yellow,Green,Yellow,Olive,Aquamarine,Charcoal
+128,Maroon,Navy blue,Azure,Hot pink,Lime,Blue,Teal,Fuchsia,Olden,Khaki
+129,Charcoal,Purple,Lime,White,Teal,Silver,Khaki,Teal,Plum,Coral
+130,Orange,Gray,Ivory,Yellow,Coral,Khaki,Teal,Ivory,Ivory,Red
+131,Olive,Brown,Silver,Olden,Silver,Pea green,Azure,Black,Yellow,Silver
+132,Blue,Black,Maroon,Purple,Coral,Silver,Navy blue,Blue,Aquamarine,Lime
+133,Brown,Maroon,Brown,Blue,Black,Aquamarine,Ivory,Teal,Black,Yellow
+134,Ivory,Ivory,Teal,Crimson,Charcoal,Hot pink,Cyan,Orange,Green,Aquamarine
+135,Cyan,Olive,Pea green,White,Black,Orange,Wheat,Navy blue,Navy blue,Plum
+136,Blue,Plum,Aquamarine,Magenta,White,Purple,Brown,Ivory,Cyan,Silver
+137,Cyan,Lime,Fuchsia,Cyan,Teal,Azure,Cyan,Coral,Olive,Yellow
+138,Plum,Coral,Teal,Blue,Black,Orange,Wheat,Olive,Navy blue,Fuchsia
+139,Charcoal,Pea green,White,Green,Wheat,Green,Magenta,Pea green,Silver,Charcoal
+140,Coral,Coral,Lime,Azure,Cyan,Blue,Cyan,Green,Hot pink,Olive
+141,Black,Teal,Khaki,Gray,Aquamarine,Khaki,Navy blue,Maroon,Silver,Ivory
+142,Magenta,Wheat,Coral,Silver,Olden,Crimson,Brown,Azure,Aquamarine,Crimson
+143,Ivory,Red,Charcoal,Magenta,Coral,Charcoal,Magenta,Silver,Cyan,Navy blue
+144,Brown,Maroon,Coral,Charcoal,Cyan,Hot pink,Ivory,Black,Fuchsia,Olive
+145,Magenta,Fuchsia,Blue,Olden,Black,Orange,Black,Black,Olive,Gray
+146,Wheat,Green,Olive,Gray,Brown,Lime,Green,Lime,Khaki,Green
+147,Green,Maroon,Maroon,Coral,Azure,Fuchsia,Gray,Green,Coral,Coral
+148,Teal,Pea green,Navy blue,Gray,Coral,Plum,Blue,Wheat,Hot pink,Silver
+149,Yellow,Magenta,Blue,Maroon,Coral,Coral,Aquamarine,Pea green,Brown,Yellow
+150,Coral,Gray,Coral,Fuchsia,Olive,Black,Coral,Navy blue,Black,Coral
+151,Azure,Silver,Pea green,Aquamarine,Brown,Purple,Brown,Charcoal,Orange,Khaki
+152,Brown,Lime,Black,Olden,Charcoal,Hot pink,Magenta,Yellow,Khaki,Blue
+153,Orange,Blue,Black,Green,Azure,Orange,Magenta,Pea green,Pea green,Yellow
+154,Olden,Azure,Green,Wheat,Olden,Purple,Azure,Yellow,Silver,Crimson
+155,Olden,Orange,Navy blue,Magenta,Wheat,Plum,Red,Olden,Coral,Azure
+156,Coral,Charcoal,Crimson,Aquamarine,Red,Crimson,Charcoal,Yellow,Plum,Olive
+157,Olden,Brown,Gray,Olive,Maroon,Brown,Maroon,Yellow,Navy blue,Magenta
+158,Teal,Olive,Green,Green,Hot pink,Magenta,Lime,Olden,Olive,Red
+159,Brown,Maroon,Charcoal,Olive,Cyan,Lime,Blue,Orange,Navy blue,Aquamarine
+160,Wheat,Fuchsia,Khaki,Brown,Lime,Olive,Brown,Khaki,Olden,Maroon
+161,Wheat,Red,Green,Aquamarine,Red,Orange,Blue,Hot pink,Plum,Hot pink
+162,Pea green,White,Red,Gray,Orange,Gray,Hot pink,Azure,Blue,Maroon
+163,Brown,Maroon,Red,Olive,Blue,Khaki,Blue,Navy blue,Fuchsia,Ivory
+164,Plum,Azure,Magenta,Silver,Orange,Azure,Fuchsia,Blue,Navy blue,Cyan
+165,Aquamarine,Teal,Navy blue,Fuchsia,Black,Aquamarine,Magenta,Blue,Cyan,Yellow
+166,Purple,Blue,Purple,Azure,Hot pink,Teal,Olive,Cyan,Lime,Olive
+167,Crimson,Ivory,Black,Brown,Crimson,Aquamarine,Silver,Brown,Charcoal,Aquamarine
+168,Cyan,Teal,Navy blue,Plum,Teal,Khaki,Cyan,Pea green,Navy blue,Hot pink
+169,Teal,Pea green,Brown,Yellow,Plum,Azure,Maroon,Plum,Red,Coral
+170,Magenta,Blue,Magenta,Lime,Brown,Navy blue,Black,Fuchsia,Khaki,Purple
+171,Gray,Green,Brown,Khaki,Brown,Purple,Khaki,Teal,Khaki,Olive
+172,Magenta,Orange,Crimson,Purple,Blue,Purple,Teal,Azure,Lime,Khaki
+173,Coral,Crimson,Azure,Navy blue,Gray,Brown,Azure,Hot pink,Coral,Gray
+174,Brown,Magenta,Ivory,Green,Pea green,Brown,Khaki,Maroon,Silver,Azure
+175,Plum,Lime,Teal,Brown,Plum,Ivory,Purple,Purple,Blue,Green
+176,White,Blue,Charcoal,Olive,Hot pink,Black,Blue,Pea green,Hot pink,Fuchsia
+177,Ivory,Yellow,Black,White,Yellow,Green,Aquamarine,Navy blue,Red,Wheat
+178,Crimson,Pea green,Plum,Teal,Wheat,Gray,Teal,Olive,Black,Green
+179,Black,Khaki,Red,Navy blue,Silver,Black,Wheat,Crimson,Purple,Ivory
+180,Red,Olive,Brown,Teal,Plum,Olive,Navy blue,Khaki,Azure,Ivory
+181,Magenta,Brown,Black,Purple,Purple,Brown,Lime,Coral,Olden,Lime
+182,Wheat,Aquamarine,Hot pink,Magenta,Olive,Purple,Blue,Olden,Black,Brown
+183,Cyan,Cyan,Olive,Wheat,Magenta,Lime,Fuchsia,Ivory,Red,Navy blue
+184,Cyan,Crimson,Lime,Pea green,Lime,Olden,Ivory,Gray,Olden,Maroon
+185,Lime,White,Teal,Brown,Orange,Olden,Black,Yellow,Gray,Ivory
+186,Green,Khaki,Azure,Blue,Coral,Lime,Magenta,Pea green,Aquamarine,Plum
+187,Ivory,Yellow,Plum,Teal,Coral,Lime,Red,Olive,Blue,Olden
+188,Silver,Wheat,Magenta,Cyan,Ivory,Lime,Olden,Silver,Plum,Cyan
+189,Orange,Wheat,Olive,Maroon,White,Coral,Khaki,Hot pink,Black,Maroon
+190,Hot pink,Silver,Pea green,Lime,Cyan,Azure,Orange,Olive,Red,Khaki
+191,Charcoal,Orange,Blue,Pea green,Orange,Plum,Silver,Charcoal,Ivory,Olden
+192,Lime,Wheat,Khaki,Red,Brown,Pea green,Hot pink,Wheat,Red,Lime
+193,Gray,Teal,Gray,Olden,Black,Plum,Black,Purple,Pea green,Blue
+194,Orange,Plum,Maroon,Fuchsia,Wheat,Green,Navy blue,Cyan,Coral,Cyan
+195,Yellow,Olden,Orange,Plum,Maroon,Aquamarine,Magenta,Ivory,Blue,Teal
+196,Wheat,Pea green,Olive,Olive,Teal,Pea green,Olive,Aquamarine,Gray,Crimson
+197,Azure,Khaki,Black,Wheat,Brown,Wheat,Teal,Green,Brown,Blue
+198,Crimson,Green,Black,Cyan,Orange,Cyan,Hot pink,Red,Azure,Blue
+199,Yellow,Teal,Navy blue,Purple,Gray,Orange,Cyan,Magenta,Olive,Red
+200,Plum,White,Brown,Wheat,Wheat,Aquamarine,Orange,Red,Olden,Cyan
+201,Maroon,Purple,Navy blue,Pea green,Charcoal,Navy blue,Blue,Red,Green,Aquamarine
+202,Orange,Coral,Coral,Green,Khaki,Teal,Olden,White,Ivory,Purple
+203,Teal,Silver,Maroon,Red,Charcoal,Crimson,Brown,Orange,White,Azure
+204,Coral,Olive,Purple,Khaki,Silver,Cyan,Black,Blue,Azure,White
+205,Cyan,Orange,Red,Brown,Olden,Purple,Aquamarine,White,Red,Gray
+206,Olden,Purple,Silver,Red,Olden,Azure,Pea green,Black,Fuchsia,Magenta
+207,Black,Coral,Aquamarine,Gray,Lime,Fuchsia,Khaki,Brown,Ivory,Pea green
+208,Ivory,Khaki,Black,Ivory,Aquamarine,Fuchsia,Maroon,Maroon,Lime,Fuchsia
+209,Purple,Olden,Plum,Crimson,Cyan,Olden,Wheat,Orange,Purple,Ivory
+210,Khaki,Blue,Aquamarine,Brown,Green,Maroon,Khaki,Brown,Ivory,Purple
+211,Aquamarine,Aquamarine,Brown,Plum,Lime,Plum,Fuchsia,Yellow,Blue,Coral
+212,Hot pink,Coral,Plum,Yellow,Orange,White,Orange,Yellow,Maroon,Pea green
+213,Khaki,Olden,Charcoal,Navy blue,White,Plum,Gray,Gray,Hot pink,Lime
+214,Azure,Lime,Red,Red,Yellow,Red,Pea green,Black,Blue,Aquamarine
+215,Maroon,Teal,Blue,Teal,Orange,Hot pink,Maroon,Olive,Azure,Wheat
+216,Black,Aquamarine,Maroon,Ivory,Olive,Purple,Olive,Navy blue,Navy blue,Ivory
+217,Pea green,Green,Teal,Crimson,Aquamarine,Gray,Magenta,Wheat,Cyan,Maroon
+218,Hot pink,Khaki,Ivory,Olive,Aquamarine,Azure,Silver,Azure,Lime,Fuchsia
+219,Navy blue,Yellow,Yellow,Maroon,Khaki,Plum,Coral,Lime,Olive,Silver
+220,Brown,Ivory,Silver,Magenta,Aquamarine,Gray,Green,Yellow,Plum,Hot pink
+221,Orange,Brown,Olden,Crimson,Black,Magenta,Aquamarine,Brown,Magenta,Wheat
+222,Green,Cyan,Ivory,Ivory,Teal,Silver,Cyan,Brown,Yellow,Hot pink
+223,Azure,Gray,Teal,Purple,Red,Blue,Coral,Brown,Yellow,Wheat
+224,Orange,Hot pink,Charcoal,Black,Olive,Azure,Maroon,White,Magenta,Maroon
+225,Wheat,Khaki,Hot pink,Lime,Red,Olive,Brown,Cyan,Maroon,Brown
+226,Orange,Crimson,Khaki,Wheat,Aquamarine,Gray,Red,Khaki,Teal,Fuchsia
+227,Navy blue,Green,Hot pink,Azure,Brown,Navy blue,Navy blue,Cyan,Khaki,Blue
+228,Teal,Lime,Yellow,Lime,Charcoal,Brown,Pea green,Aquamarine,Blue,Green
+229,Crimson,Wheat,Olden,Azure,Olden,Green,White,Plum,Yellow,White
+230,Fuchsia,Brown,Fuchsia,Maroon,Cyan,Green,Wheat,Charcoal,Teal,Cyan
+231,Cyan,Khaki,Khaki,Ivory,Charcoal,Purple,Ivory,Crimson,Fuchsia,Green
+232,Wheat,Coral,Olive,Fuchsia,Olive,Navy blue,Navy blue,Olden,White,White
+233,Blue,Coral,Yellow,White,Azure,Hot pink,Coral,Yellow,Hot pink,Plum
+234,White,Red,Magenta,Fuchsia,Red,Navy blue,Lime,Brown,Hot pink,Teal
+235,Olden,Charcoal,Orange,Teal,Cyan,Fuchsia,Maroon,Charcoal,Wheat,Magenta
+236,Silver,Plum,Red,Brown,Khaki,Teal,Blue,Crimson,Khaki,Azure
+237,Fuchsia,Aquamarine,Plum,Magenta,Plum,Olden,Cyan,Wheat,Charcoal,Azure
+238,Navy blue,Yellow,Yellow,Lime,Navy blue,Azure,Purple,Azure,Aquamarine,Lime
+239,Olive,Teal,Aquamarine,Pea green,Pea green,Wheat,Olive,Olden,Ivory,Red
+240,Magenta,Silver,Aquamarine,Teal,Wheat,Orange,Gray,Purple,Magenta,Aquamarine
+241,Aquamarine,Ivory,Navy blue,Khaki,Ivory,Ivory,Blue,Crimson,Magenta,Lime
+242,Blue,Maroon,White,Khaki,Lime,Navy blue,Azure,Blue,Fuchsia,Yellow
+243,Teal,Coral,Blue,Teal,Khaki,Wheat,Maroon,Red,Cyan,Orange
+244,Crimson,Gray,Coral,Coral,Wheat,Khaki,Gray,Maroon,Fuchsia,Teal
+245,Charcoal,Olive,Brown,Olive,Red,Yellow,Green,Coral,Red,Maroon
+246,Hot pink,Fuchsia,Plum,Charcoal,Teal,Azure,Teal,Khaki,Pea green,Orange
+247,Fuchsia,Ivory,Charcoal,Orange,Blue,Hot pink,Red,Silver,Lime,Charcoal
+248,Ivory,Khaki,Navy blue,Black,Purple,Aquamarine,Charcoal,Khaki,Wheat,Hot pink
+249,Navy blue,Blue,Cyan,Fuchsia,Azure,Coral,Navy blue,Magenta,Ivory,Navy blue
+250,Hot pink,Red,Plum,Hot pink,Khaki,Plum,Gray,Plum,Black,Wheat
+251,Olden,Olden,Crimson,Blue,Red,Magenta,Azure,Green,Orange,Black
+252,Teal,Magenta,Yellow,Navy blue,Silver,Blue,Gray,Gray,Pea green,Pea green
+253,Fuchsia,Yellow,Purple,Cyan,Maroon,Olive,Ivory,Green,Charcoal,White
+254,Azure,Pea green,Khaki,Purple,Navy blue,Cyan,Purple,Orange,Fuchsia,Magenta
+255,White,Fuchsia,Olive,Teal,Azure,Green,Navy blue,Purple,White,Coral
+256,White,Green,Ivory,Azure,Wheat,Black,Purple,Charcoal,White,Gray
+257,Green,Khaki,White,Red,Green,Black,Charcoal,Teal,Black,Hot pink
+258,Crimson,Purple,Navy blue,Crimson,Orange,Ivory,Ivory,Aquamarine,Wheat,Orange
+259,Coral,Blue,Azure,Plum,Red,Yellow,Fuchsia,Teal,Teal,Azure
+260,Brown,Fuchsia,Maroon,Navy blue,Azure,Cyan,Yellow,Navy blue,Coral,Olden
+261,Silver,Charcoal,White,Coral,Olive,Red,Red,Purple,Cyan,Magenta
+262,Orange,Maroon,Magenta,Yellow,Cyan,Lime,Olive,Navy blue,Maroon,Magenta
+263,Black,Khaki,Crimson,Orange,Black,Khaki,Charcoal,Red,Plum,Pea green
+264,Crimson,Red,Orange,Gray,Olive,Azure,Olden,Teal,Brown,Aquamarine
+265,Lime,Hot pink,Wheat,Purple,Charcoal,Yellow,Maroon,Coral,Yellow,Teal
+266,Gray,Azure,Brown,Red,Lime,Orange,Charcoal,Olden,Silver,Azure
+267,Gray,Green,Red,Khaki,Brown,Azure,Teal,Cyan,Brown,Aquamarine
+268,Crimson,Hot pink,Coral,Olden,Yellow,Teal,Azure,Magenta,Khaki,Olive
+269,Plum,Cyan,Charcoal,Crimson,Teal,Aquamarine,Crimson,Blue,Green,Brown
+270,Plum,Navy blue,Crimson,Fuchsia,Yellow,Coral,Magenta,Magenta,Brown,Pea green
+271,Navy blue,Silver,Olden,Crimson,Aquamarine,Brown,Khaki,Silver,Gray,Wheat
+272,Red,White,Black,Purple,Navy blue,Magenta,Plum,Yellow,Lime,Wheat
+273,Gray,Gray,Olive,Pea green,Hot pink,Green,Charcoal,Navy blue,Cyan,Ivory
+274,Green,Coral,Purple,Coral,Magenta,Black,Pea green,Lime,Blue,Wheat
+275,Green,Teal,Cyan,Coral,Lime,Crimson,Navy blue,Pea green,Gray,Blue
+276,Olden,Olive,Navy blue,Lime,Coral,Teal,Teal,Navy blue,Navy blue,White
+277,Yellow,Khaki,Wheat,Hot pink,Yellow,White,Coral,Hot pink,Red,Charcoal
+278,Green,Hot pink,Lime,Coral,Plum,Maroon,Gray,Yellow,Maroon,Black
+279,Aquamarine,Plum,Teal,Coral,Pea green,Green,Coral,Olive,Crimson,Blue
+280,Coral,Fuchsia,Aquamarine,Khaki,Coral,Magenta,Magenta,Yellow,Red,Crimson
+281,Silver,Green,Aquamarine,Black,Plum,Pea green,Fuchsia,Navy blue,Lime,Blue
+282,Black,Green,Lime,Aquamarine,Pea green,Fuchsia,Yellow,Pea green,Navy blue,Plum
+283,Silver,Crimson,Yellow,Silver,Orange,Charcoal,White,Teal,Olden,Plum
+284,Purple,Crimson,Orange,Teal,Fuchsia,Plum,Olden,Gray,Magenta,Hot pink
+285,Brown,Black,Wheat,Magenta,Red,Ivory,Cyan,Purple,Aquamarine,Orange
+286,Brown,Aquamarine,Gray,Yellow,Khaki,Cyan,Maroon,Aquamarine,Crimson,Maroon
+287,Maroon,Hot pink,Aquamarine,Coral,Hot pink,Cyan,Purple,Pea green,Olive,Green
+288,Teal,Red,Navy blue,Brown,Ivory,Olive,Magenta,Green,Magenta,Hot pink
+289,Gray,White,Lime,Silver,Khaki,Plum,Magenta,Ivory,Orange,Purple
+290,Yellow,Coral,Fuchsia,Ivory,White,Olive,Blue,Plum,Purple,Olive
+291,Coral,Khaki,Olden,Magenta,Magenta,Khaki,Aquamarine,Magenta,Azure,Green
+292,Azure,Red,Teal,Ivory,Green,Brown,Orange,Crimson,Navy blue,Red
+293,Lime,Teal,White,Olden,Azure,Fuchsia,Lime,Navy blue,Olive,Navy blue
+294,Crimson,Teal,Cyan,Pea green,Coral,Lime,Coral,Blue,Olden,Olden
+295,Charcoal,Pea green,Aquamarine,Purple,Yellow,Green,Purple,Cyan,Wheat,Ivory
+296,Yellow,Olive,Aquamarine,Plum,Black,Fuchsia,Olive,Brown,Black,Silver
+297,Yellow,Green,Navy blue,Gray,Hot pink,Purple,Black,Khaki,Olden,Yellow
+298,Wheat,Olden,Olden,Gray,Fuchsia,Plum,Yellow,Pea green,Olive,Silver
+299,Plum,Olive,Hot pink,Purple,Aquamarine,Teal,Black,Teal,Navy blue,Navy blue
+300,Plum,Orange,Fuchsia,Lime,Plum,Pea green,Blue,Khaki,Crimson,Fuchsia
+301,Charcoal,White,Crimson,Crimson,Charcoal,Maroon,Azure,Brown,Wheat,Red
+302,Gray,Magenta,Lime,Red,Wheat,Olive,Gray,Gray,Fuchsia,Brown
+303,White,Teal,Hot pink,Cyan,Olive,Khaki,Wheat,White,Brown,Ivory
+304,Purple,Hot pink,Orange,Hot pink,Ivory,Charcoal,Blue,Green,Hot pink,Olive
+305,Blue,White,Orange,Blue,Red,Teal,Red,Charcoal,Silver,Brown
+306,Orange,Purple,Yellow,White,Wheat,Yellow,Aquamarine,Maroon,Purple,Olive
+307,Crimson,Fuchsia,Pea green,Lime,Teal,Olden,Crimson,Pea green,Orange,Cyan
+308,Maroon,Maroon,Olden,Yellow,Plum,Maroon,Coral,Plum,Orange,Gray
+309,Gray,Olive,Teal,Khaki,Khaki,Khaki,Black,Maroon,Plum,Lime
+310,Wheat,White,Khaki,Lime,Lime,Maroon,Navy blue,Ivory,Aquamarine,Ivory
+311,Pea green,Navy blue,Yellow,Cyan,Khaki,Khaki,Ivory,Maroon,Yellow,Plum
+312,Coral,Cyan,Fuchsia,Blue,Charcoal,Lime,Fuchsia,Green,Magenta,Teal
+313,Silver,Green,Hot pink,Blue,Navy blue,Olden,Ivory,Green,Plum,Cyan
+314,Charcoal,Orange,Charcoal,Lime,Purple,Lime,Brown,Azure,Coral,Cyan
+315,Azure,Wheat,Aquamarine,Silver,White,Silver,Charcoal,Gray,Fuchsia,Green
+316,Navy blue,Purple,Olden,Crimson,Navy blue,Olden,Navy blue,Purple,Crimson,White
+317,Yellow,Charcoal,Crimson,Khaki,Red,Magenta,White,Coral,Maroon,Charcoal
+318,Khaki,White,Brown,Silver,Lime,Maroon,Aquamarine,Crimson,Green,Olive
+319,Silver,Charcoal,Lime,Black,Azure,Purple,Red,Cyan,Silver,Silver
+320,Gray,White,Navy blue,Gray,Charcoal,Aquamarine,Khaki,Yellow,Ivory,White
+321,Charcoal,Red,Plum,Khaki,Crimson,Maroon,Fuchsia,Teal,Brown,Brown
+322,Teal,Olden,Blue,Maroon,Gray,Olive,Purple,Fuchsia,Aquamarine,Fuchsia
+323,Khaki,Aquamarine,Fuchsia,Cyan,Azure,White,Crimson,Hot pink,Black,Gray
+324,Aquamarine,Gray,White,Fuchsia,Brown,Charcoal,Blue,Fuchsia,Purple,Lime
+325,Yellow,Pea green,Pea green,Orange,Cyan,Silver,Maroon,Blue,Olive,Orange
+326,Plum,Navy blue,Green,Coral,Cyan,Cyan,Wheat,Brown,White,Blue
+327,Green,Yellow,Maroon,Silver,Silver,Azure,Yellow,Lime,White,Black
+328,Azure,Lime,Hot pink,Gray,Crimson,Silver,White,Olive,Red,Pea green
+329,Maroon,Charcoal,Pea green,Teal,Maroon,Aquamarine,Olden,Crimson,Yellow,Charcoal
+330,Gray,Yellow,Gray,Olden,Yellow,Orange,Teal,Gray,Olden,Green
+331,Brown,Coral,Gray,Black,Teal,Green,Navy blue,Pea green,Navy blue,Charcoal
+332,Black,Gray,Charcoal,Khaki,Magenta,Green,Cyan,Wheat,Ivory,Brown
+333,Yellow,Purple,Navy blue,Fuchsia,White,White,Brown,Blue,Pea green,Yellow
+334,Blue,Azure,Green,Azure,Yellow,Teal,White,Olive,Charcoal,Ivory
+335,Lime,Green,Cyan,Pea green,Wheat,Cyan,Aquamarine,Ivory,Coral,Purple
+336,Aquamarine,Orange,Plum,Magenta,Pea green,Hot pink,Lime,White,Green,Hot pink
+337,Fuchsia,Maroon,Green,Silver,Hot pink,Purple,Blue,Silver,Olden,Magenta
+338,Hot pink,Black,Charcoal,Navy blue,White,Pea green,Red,Purple,Maroon,Khaki
+339,Teal,Olden,Cyan,Green,Magenta,Maroon,Black,Azure,Crimson,Brown
+340,Charcoal,Gray,Ivory,Purple,Maroon,Fuchsia,Silver,Charcoal,Hot pink,Ivory
+341,Coral,Magenta,Coral,Green,Black,Brown,Cyan,White,Olive,Red
+342,Lime,Charcoal,Gray,Olden,Khaki,Teal,Azure,Navy blue,Olive,Ivory
+343,Wheat,Silver,Silver,Ivory,Plum,Maroon,Plum,Black,Orange,Aquamarine
+344,Gray,Gray,Navy blue,Navy blue,Olive,Wheat,Ivory,White,Ivory,Blue
+345,Orange,Olive,Navy blue,Olive,Teal,Lime,Cyan,Aquamarine,Azure,Charcoal
+346,Orange,Lime,Black,Gray,Black,Navy blue,Charcoal,Brown,Coral,Blue
+347,Charcoal,Aquamarine,Teal,Hot pink,Navy blue,Lime,Navy blue,Hot pink,Silver,Fuchsia
+348,Navy blue,Purple,Khaki,Olive,Teal,Purple,Fuchsia,Silver,Yellow,Magenta
+349,Pea green,Azure,Azure,Gray,Olden,Azure,Maroon,Ivory,Orange,Magenta
+350,Hot pink,Hot pink,Silver,Teal,Brown,Orange,Lime,Wheat,Pea green,Green
+351,Pea green,Olden,Aquamarine,Azure,Black,Fuchsia,Coral,White,Magenta,Magenta
+352,Charcoal,Blue,Red,Green,Black,Hot pink,Khaki,Ivory,Olive,Purple
+353,Olden,Fuchsia,Lime,Ivory,Cyan,Teal,Teal,Orange,Black,Plum
+354,Charcoal,Black,Fuchsia,Hot pink,Teal,Brown,Hot pink,Green,Brown,Brown
+355,Cyan,Coral,Teal,Navy blue,Black,Gray,Hot pink,Magenta,Lime,Gray
+356,Magenta,Coral,Blue,Azure,Olive,Green,Teal,Black,Wheat,Pea green
+357,Coral,Fuchsia,Khaki,Wheat,Purple,Brown,Yellow,Aquamarine,Wheat,Teal
+358,Yellow,Orange,Plum,Pea green,Black,Magenta,Magenta,Charcoal,Olive,Ivory
+359,Brown,Plum,Maroon,Silver,Magenta,Gray,Red,Silver,Plum,Cyan
+360,Purple,Red,Teal,Pea green,Blue,Coral,Azure,Ivory,Purple,Hot pink
+361,Maroon,Khaki,Coral,Yellow,Black,Purple,Cyan,Orange,Teal,Red
+362,Olive,Cyan,Purple,Wheat,Olden,Plum,Khaki,Fuchsia,White,Aquamarine
+363,Crimson,Azure,Teal,Purple,Blue,Red,Purple,Purple,White,Cyan
+364,Plum,Magenta,Navy blue,Yellow,Magenta,Silver,Blue,Azure,Red,Pea green
+365,Teal,Lime,Olden,Magenta,White,Hot pink,Plum,Brown,Khaki,Gray
+366,Maroon,Olden,Black,Red,Cyan,Magenta,Orange,Purple,Pea green,Maroon
+367,White,Fuchsia,Hot pink,Blue,Brown,Navy blue,Cyan,Pea green,Olden,Red
+368,Green,Red,Hot pink,Fuchsia,Wheat,Maroon,Orange,Hot pink,Ivory,Magenta
+369,Yellow,Teal,Silver,Purple,Maroon,Brown,Coral,Hot pink,Red,Teal
+370,Black,Aquamarine,Coral,Ivory,Crimson,Navy blue,Orange,Purple,Red,Crimson
+371,Crimson,White,Olden,Navy blue,Hot pink,Aquamarine,Purple,Purple,Khaki,Pea green
+372,Gray,Magenta,Navy blue,Silver,Hot pink,Crimson,Aquamarine,Fuchsia,Lime,Pea green
+373,Plum,Azure,Wheat,Pea green,White,Azure,Plum,Crimson,Pea green,Gray
+374,Khaki,Ivory,Olden,Khaki,Orange,Teal,Gray,Crimson,Maroon,Purple
+375,Olive,Aquamarine,Cyan,Black,Red,Olden,Pea green,Aquamarine,Gray,Blue
+376,Olden,Brown,Purple,Charcoal,Aquamarine,Wheat,Orange,Orange,Plum,Blue
+377,Blue,Black,White,Olden,Teal,Olive,Crimson,Olive,Orange,Gray
+378,Plum,Blue,Cyan,Azure,Gray,Blue,Coral,Yellow,Gray,Gray
+379,Maroon,Teal,Purple,Crimson,Cyan,Gray,Orange,Purple,Lime,Plum
+380,Teal,Charcoal,Olden,Charcoal,Ivory,Gray,Magenta,Hot pink,Fuchsia,Green
+381,Pea green,Hot pink,Lime,Wheat,Silver,Orange,Cyan,Magenta,White,Orange
+382,Magenta,Black,Hot pink,Green,Cyan,Black,Wheat,Hot pink,Crimson,Cyan
+383,Hot pink,Olden,Orange,Yellow,Charcoal,Crimson,Fuchsia,Black,Azure,Olive
+384,Gray,Coral,Charcoal,Charcoal,Wheat,Azure,Red,Teal,Green,Azure
+385,Coral,Khaki,Gray,Hot pink,Cyan,Teal,Gray,Pea green,White,Olive
+386,Hot pink,Green,Brown,Khaki,Navy blue,Khaki,Olive,Orange,Cyan,Orange
+387,Teal,Khaki,Purple,Ivory,Aquamarine,Ivory,Khaki,Teal,Aquamarine,Blue
+388,Gray,Crimson,Maroon,Aquamarine,Coral,Green,Ivory,Magenta,Charcoal,Azure
+389,Brown,Lime,Maroon,Khaki,Wheat,Green,Cyan,Green,Black,Blue
+390,Pea green,Green,Orange,White,White,Silver,Orange,Khaki,Magenta,Green
+391,Hot pink,Yellow,Coral,Red,Red,Ivory,Ivory,Magenta,Yellow,Wheat
+392,Cyan,Olive,Brown,Cyan,Yellow,Charcoal,Cyan,Lime,Black,Teal
+393,Yellow,Azure,Cyan,Red,Wheat,Teal,Brown,White,Aquamarine,Purple
+394,Olden,Crimson,Green,Green,Lime,Teal,Yellow,Khaki,Yellow,Blue
+395,Purple,Khaki,Charcoal,Hot pink,Gray,Navy blue,Coral,Coral,Olden,Khaki
+396,Silver,Purple,Yellow,Khaki,Brown,Fuchsia,Green,Aquamarine,Olive,Khaki
+397,White,Wheat,Aquamarine,Gray,Plum,Azure,Yellow,Blue,Orange,Gray
+398,Coral,Cyan,Fuchsia,Maroon,Orange,Blue,Lime,Aquamarine,Ivory,Magenta
+399,Silver,Khaki,Plum,Fuchsia,Orange,Olden,White,Wheat,Lime,Teal
+400,Crimson,Olden,Brown,Green,Yellow,Wheat,Cyan,Fuchsia,Olden,Cyan
+401,Charcoal,Plum,Fuchsia,Fuchsia,Red,Fuchsia,Lime,Hot pink,Purple,Khaki
+402,Brown,Silver,Wheat,Blue,Silver,Wheat,Plum,Yellow,Plum,Purple
+403,Azure,Coral,Maroon,Purple,Orange,Wheat,Yellow,Aquamarine,White,Lime
+404,Green,Fuchsia,Plum,Lime,Red,Orange,Navy blue,Aquamarine,Yellow,Ivory
+405,Coral,Brown,Crimson,Blue,Navy blue,Azure,Magenta,Wheat,Red,Azure
+406,Wheat,Crimson,Blue,Blue,Black,Fuchsia,Wheat,Hot pink,Silver,Black
+407,Red,Olden,Brown,Purple,Wheat,Azure,Cyan,Green,Magenta,Orange
+408,Red,Navy blue,Pea green,Navy blue,Cyan,Ivory,Maroon,Pea green,Magenta,Khaki
+409,Purple,Pea green,Cyan,Crimson,Khaki,Orange,Magenta,Green,Magenta,Teal
+410,Khaki,Navy blue,Khaki,Brown,Hot pink,Wheat,Wheat,Olive,Coral,Blue
+411,Black,Yellow,Coral,Silver,Purple,Khaki,Gray,Aquamarine,Charcoal,Maroon
+412,Yellow,Maroon,Cyan,Teal,Crimson,Azure,Khaki,Hot pink,Green,Maroon
+413,Plum,Gray,Hot pink,Plum,Magenta,Magenta,Fuchsia,Maroon,Brown,Charcoal
+414,Aquamarine,Olive,Black,Navy blue,Charcoal,Red,Navy blue,White,Yellow,Wheat
+415,Purple,Orange,Crimson,Coral,Pea green,Magenta,Maroon,Silver,Crimson,Aquamarine
+416,Orange,Aquamarine,Purple,Olden,Maroon,Purple,Hot pink,Yellow,Wheat,Fuchsia
+417,Cyan,Brown,Navy blue,Red,Silver,Wheat,Pea green,Olden,Brown,Silver
+418,Maroon,Green,Crimson,Magenta,Khaki,Magenta,Charcoal,Green,Azure,Plum
+419,Hot pink,Blue,Hot pink,Teal,Azure,Aquamarine,Maroon,Orange,Maroon,Silver
+420,Teal,Crimson,Aquamarine,Black,Olive,Khaki,Magenta,Khaki,Red,Cyan
+421,Pea green,Fuchsia,Brown,Blue,Olive,Yellow,Plum,Wheat,Maroon,Blue
+422,Purple,Fuchsia,Yellow,Fuchsia,Olden,Navy blue,Teal,Cyan,Coral,Wheat
+423,Black,Navy blue,Pea green,Green,Crimson,Orange,Hot pink,Silver,Lime,Olden
+424,Green,Crimson,Olive,Lime,Ivory,Navy blue,Yellow,Coral,Plum,White
+425,Black,Lime,Purple,Pea green,Crimson,Ivory,Hot pink,Ivory,Gray,Purple
+426,Ivory,Yellow,Pea green,Olive,Black,Cyan,Ivory,Pea green,Cyan,Yellow
+427,Crimson,Black,Blue,Plum,Hot pink,Green,Orange,Silver,Olden,White
+428,Brown,Red,Teal,Azure,Fuchsia,Khaki,Brown,Hot pink,Navy blue,Silver
+429,Teal,Olive,Fuchsia,Crimson,Black,Magenta,Yellow,Navy blue,Charcoal,Gray
+430,White,Fuchsia,Azure,Gray,Khaki,Magenta,Black,Lime,Magenta,Olden
+431,Pea green,Ivory,Olden,Hot pink,Magenta,Red,Cyan,Fuchsia,Green,Azure
+432,Khaki,Cyan,Blue,Hot pink,Teal,Khaki,Brown,Gray,Maroon,Red
+433,Brown,Azure,Plum,Purple,Fuchsia,Hot pink,Purple,Cyan,Hot pink,Wheat
+434,Hot pink,Black,Red,Navy blue,Fuchsia,White,Purple,Brown,Red,Crimson
+435,Crimson,Navy blue,Olden,Wheat,Purple,Aquamarine,Ivory,Aquamarine,Gray,Ivory
+436,Aquamarine,Crimson,Khaki,Yellow,Green,Maroon,Silver,Maroon,Silver,Brown
+437,Khaki,Red,Navy blue,Orange,Hot pink,Brown,Purple,Wheat,Charcoal,Olive
+438,Crimson,White,Black,Magenta,Wheat,Black,Khaki,Brown,Blue,Fuchsia
+439,Red,Silver,Ivory,Azure,Aquamarine,Olive,Plum,Ivory,Pea green,Purple
+440,Yellow,Navy blue,Azure,Gray,Cyan,Khaki,Ivory,Magenta,Navy blue,Red
+441,Maroon,Cyan,Purple,Gray,Silver,Brown,Teal,Blue,Wheat,Black
+442,Azure,Green,Charcoal,Teal,Navy blue,Coral,Olden,Magenta,Fuchsia,Aquamarine
+443,Brown,Azure,Silver,Magenta,Plum,Red,Fuchsia,Gray,Plum,Charcoal
+444,Magenta,Olive,Olden,Cyan,Green,Green,Purple,Orange,Silver,Navy blue
+445,Olive,Pea green,Red,Gray,Red,Yellow,Wheat,Crimson,Yellow,Lime
+446,Coral,Wheat,Orange,Magenta,Coral,Magenta,Black,Khaki,Crimson,Maroon
+447,Blue,Brown,Olive,Silver,Black,Plum,Maroon,Wheat,Olive,Magenta
+448,Azure,Aquamarine,Teal,Khaki,White,Khaki,White,Gray,Olden,Magenta
+449,Silver,Gray,Coral,Olden,Blue,Green,Olive,Yellow,Black,Olive
+450,Magenta,Coral,Purple,Pea green,Charcoal,Plum,Olden,Lime,Ivory,Yellow
+451,Olive,Maroon,Maroon,Teal,Crimson,Pea green,Azure,Purple,Maroon,Aquamarine
+452,Black,Lime,Teal,Orange,Blue,Yellow,Magenta,Black,Azure,Pea green
+453,Purple,Fuchsia,Black,Lime,Aquamarine,Yellow,Wheat,Lime,Coral,Orange
+454,Cyan,Aquamarine,Orange,Brown,Yellow,White,Orange,Olden,Green,Magenta
+455,Gray,Maroon,Olive,Teal,Brown,Olden,Coral,Navy blue,Orange,Pea green
+456,Khaki,Plum,Ivory,Maroon,Charcoal,Lime,Yellow,Aquamarine,Plum,Wheat
+457,Silver,Khaki,White,Fuchsia,Purple,Purple,Cyan,Purple,Red,Pea green
+458,Green,Magenta,Brown,Crimson,Cyan,Magenta,Fuchsia,Orange,Lime,Pea green
+459,Navy blue,Hot pink,Fuchsia,Coral,Silver,White,Green,Gray,Gray,Magenta
+460,Khaki,White,Charcoal,Pea green,Ivory,Olden,Pea green,Lime,Teal,Green
+461,Magenta,Red,Olive,Khaki,Navy blue,Red,Wheat,Gray,Charcoal,Navy blue
+462,Aquamarine,Silver,Brown,Olive,Yellow,Crimson,White,Purple,Ivory,Gray
+463,Wheat,Black,Navy blue,Magenta,Red,Wheat,Olden,Olive,Aquamarine,Teal
+464,Coral,Orange,Plum,Magenta,White,Coral,Olden,Purple,Pea green,Black
+465,Blue,Purple,Aquamarine,Hot pink,Olive,Coral,Silver,Teal,Azure,Red
+466,Teal,Yellow,Silver,Crimson,Wheat,Aquamarine,Aquamarine,Plum,Green,Lime
+467,Coral,Silver,White,Crimson,Plum,Gray,Hot pink,Orange,Olden,Wheat
+468,Olden,Maroon,Charcoal,Olive,White,Magenta,Hot pink,Orange,Black,Gray
+469,Khaki,Crimson,Wheat,Aquamarine,Khaki,Lime,Ivory,Maroon,Azure,Plum
+470,Magenta,White,Plum,Brown,Coral,Black,Cyan,Crimson,Red,Blue
+471,Fuchsia,Green,Orange,Maroon,Crimson,Coral,Magenta,Red,Hot pink,Navy blue
+472,Purple,Wheat,Purple,Pea green,Plum,Coral,Green,Gray,Maroon,Red
+473,Lime,Green,Black,Magenta,Magenta,White,White,Black,Wheat,Ivory
+474,Brown,Green,Cyan,Coral,Azure,Khaki,Cyan,White,Charcoal,Silver
+475,Brown,Maroon,Lime,Magenta,Magenta,Aquamarine,White,Teal,Gray,Plum
+476,Black,Plum,Wheat,Maroon,Maroon,Ivory,Navy blue,White,Green,Cyan
+477,Blue,Pea green,Cyan,Purple,Magenta,Brown,Crimson,Maroon,Teal,Gray
+478,Yellow,Brown,Navy blue,Red,Blue,Aquamarine,White,Charcoal,Hot pink,Charcoal
+479,Fuchsia,Wheat,Ivory,Azure,Ivory,Plum,Wheat,Maroon,Crimson,Khaki
+480,Yellow,Pea green,Silver,Maroon,Olden,Crimson,Black,Pea green,Charcoal,Black
+481,Pea green,Hot pink,Magenta,Lime,Olden,Teal,Wheat,Cyan,Red,Purple
+482,Cyan,Magenta,Teal,Charcoal,Navy blue,Coral,Silver,Yellow,Maroon,Olden
+483,Aquamarine,Green,Navy blue,Yellow,Yellow,Olden,Cyan,Silver,Purple,Silver
+484,Fuchsia,Ivory,Crimson,Yellow,Brown,Navy blue,Brown,Magenta,Aquamarine,Silver
+485,Crimson,Maroon,Plum,Brown,Purple,Yellow,Teal,Navy blue,White,Gray
+486,Lime,Yellow,Hot pink,Fuchsia,Maroon,Gray,White,Gray,Brown,Gray
+487,Azure,Blue,Green,Crimson,Teal,Green,Aquamarine,Cyan,Orange,Wheat
+488,Purple,Olden,Lime,Yellow,Crimson,Crimson,Maroon,Charcoal,Lime,Blue
+489,Khaki,Charcoal,Pea green,Black,Red,Aquamarine,Aquamarine,Silver,Gray,Olive
+490,Lime,White,Pea green,Silver,Olden,Red,Purple,Wheat,Coral,Silver
+491,Maroon,Ivory,Pea green,Brown,Fuchsia,Lime,Gray,White,Teal,Ivory
+492,Black,Red,Silver,Plum,Lime,Aquamarine,Lime,Azure,Teal,Olden
+493,Wheat,Purple,Brown,Aquamarine,Teal,Silver,Khaki,White,Blue,Black
+494,Coral,Silver,Olive,Hot pink,Aquamarine,Pea green,Black,Charcoal,Magenta,Maroon
+495,Yellow,Green,Khaki,Red,Lime,Pea green,Cyan,Khaki,White,Black
+496,Wheat,Hot pink,Charcoal,Blue,Yellow,Navy blue,Cyan,Gray,Silver,Black
+497,Gray,Ivory,Orange,Cyan,Crimson,Magenta,Ivory,Navy blue,Fuchsia,White
+498,Orange,Khaki,Wheat,Azure,Silver,Yellow,Cyan,Olden,Ivory,White
+499,Green,Brown,Olive,Ivory,Green,Magenta,Wheat,Ivory,Hot pink,White
+500,Olden,Blue,Black,Purple,Silver,Navy blue,Coral,Charcoal,Khaki,Maroon
+501,Khaki,Hot pink,Coral,Lime,Blue,Silver,Red,Plum,Teal,Aquamarine
+502,Navy blue,Yellow,Red,Red,Coral,Charcoal,Navy blue,Navy blue,Azure,Silver
+503,Gray,Yellow,Plum,Navy blue,White,Blue,Lime,Coral,Coral,Green
+504,Silver,Yellow,Olive,Olden,Brown,Brown,Hot pink,Green,Silver,Magenta
+505,Magenta,Pea green,Magenta,White,Black,Ivory,Red,Olive,Pea green,Ivory
+506,Fuchsia,Olden,Cyan,Teal,Pea green,Blue,Khaki,Green,Cyan,Orange
+507,Plum,Khaki,Cyan,Purple,Blue,Olive,Blue,Coral,Gray,Yellow
+508,Wheat,Pea green,Hot pink,White,Charcoal,Ivory,Coral,Orange,Blue,Magenta
+509,Cyan,Pea green,Azure,Cyan,Green,Purple,Olive,Yellow,Cyan,Silver
+510,Magenta,Red,Gray,Navy blue,Blue,Olden,Aquamarine,Aquamarine,Fuchsia,Black
+511,Red,Plum,Purple,Black,Azure,Navy blue,Aquamarine,Gray,Orange,Magenta
+512,Brown,Cyan,Khaki,Crimson,Crimson,Black,Green,Maroon,Aquamarine,Aquamarine
+513,Yellow,Green,Orange,Maroon,Brown,Teal,Plum,Olden,Plum,Green
+514,Khaki,Blue,Purple,Azure,Fuchsia,Black,Olden,Silver,Teal,Pea green
+515,Gray,Silver,Charcoal,Green,Navy blue,Magenta,Pea green,Gray,Coral,Khaki
+516,Cyan,Coral,Gray,Plum,Olden,Gray,Yellow,Teal,Plum,Khaki
+517,Ivory,Blue,Lime,Teal,Coral,Ivory,Orange,Gray,Charcoal,Aquamarine
+518,Ivory,Teal,Yellow,Magenta,Magenta,Coral,Pea green,Yellow,Khaki,Charcoal
+519,Blue,Teal,Coral,Yellow,Teal,Lime,Orange,Olden,Khaki,Black
+520,Aquamarine,Wheat,Coral,Azure,Plum,Olive,Ivory,Ivory,Brown,Khaki
+521,Aquamarine,Fuchsia,Pea green,Wheat,White,Plum,Ivory,Black,Cyan,Ivory
+522,Olive,Coral,Black,Charcoal,Brown,Lime,Yellow,Crimson,Fuchsia,Coral
+523,Brown,Coral,Silver,Khaki,White,Orange,Coral,Green,Lime,White
+524,Olden,Cyan,Red,Black,Charcoal,Magenta,White,Teal,White,Orange
+525,Black,Coral,White,Navy blue,Wheat,Magenta,White,Maroon,Purple,Olden
+526,Aquamarine,Olive,Khaki,Pea green,White,Charcoal,Orange,Teal,Green,Hot pink
+527,Teal,Yellow,Azure,Brown,Khaki,Aquamarine,Charcoal,Crimson,White,Purple
+528,Azure,Azure,Black,Red,Silver,Olive,Fuchsia,Silver,White,Black
+529,Teal,Olive,Purple,Blue,Gray,Cyan,Cyan,Wheat,Yellow,Cyan
+530,Wheat,Red,Hot pink,Black,Yellow,Silver,Teal,Red,Khaki,Olive
+531,Teal,Olden,Cyan,Olden,Navy blue,Silver,Blue,Green,White,Aquamarine
+532,Lime,Magenta,Yellow,Purple,Azure,Blue,Orange,Maroon,Cyan,Khaki
+533,Magenta,Lime,Navy blue,Teal,Gray,Coral,Gray,Fuchsia,Brown,Brown
+534,Charcoal,Magenta,Pea green,Purple,Maroon,Navy blue,Magenta,Magenta,Coral,Aquamarine
+535,Plum,Green,Gray,Azure,Olive,Purple,Wheat,Hot pink,Plum,Magenta
+536,Cyan,Blue,Plum,Olden,Navy blue,Olden,Blue,Silver,Lime,Ivory
+537,Green,Plum,Fuchsia,Magenta,Crimson,Aquamarine,Ivory,Purple,Navy blue,Pea green
+538,Navy blue,Cyan,Green,Maroon,Red,Gray,Fuchsia,Maroon,Coral,Purple
+539,Purple,Silver,Brown,Lime,Green,Wheat,Olive,White,Charcoal,Black
+540,Pea green,Plum,Aquamarine,Wheat,Navy blue,Orange,Khaki,Purple,Wheat,Purple
+541,Green,Ivory,Olive,Plum,Magenta,Black,Plum,Gray,Hot pink,Magenta
+542,Wheat,Olive,Lime,Olden,Magenta,Navy blue,Ivory,Teal,Green,Ivory
+543,Brown,Cyan,Red,White,Khaki,Magenta,Silver,Blue,Charcoal,Yellow
+544,Maroon,Navy blue,Silver,Magenta,Yellow,White,Plum,Brown,Crimson,Pea green
+545,Coral,Olive,Teal,Black,Yellow,Lime,Orange,Red,Orange,Cyan
+546,Fuchsia,Pea green,Fuchsia,Green,Olive,Gray,Pea green,Lime,Wheat,Charcoal
+547,Purple,Cyan,Orange,Cyan,Magenta,Blue,Aquamarine,Cyan,Pea green,Hot pink
+548,Orange,Yellow,Wheat,Blue,Lime,Yellow,Red,Coral,Navy blue,Maroon
+549,Black,Blue,Teal,Olive,Aquamarine,Azure,Navy blue,Plum,Ivory,Magenta
+550,Azure,Silver,Khaki,Green,Fuchsia,Plum,Olive,Crimson,Cyan,Brown
+551,Silver,Hot pink,Hot pink,Ivory,Khaki,Black,Black,Yellow,Purple,Black
+552,Blue,Olive,Cyan,Olive,Plum,Azure,White,Coral,Brown,Purple
+553,Magenta,Black,Purple,Hot pink,Khaki,Blue,Navy blue,Orange,Fuchsia,Purple
+554,Cyan,Olive,Aquamarine,Silver,Pea green,Maroon,Maroon,Red,Charcoal,Maroon
+555,Plum,Hot pink,Khaki,Teal,Silver,Purple,Maroon,Ivory,Blue,Charcoal
+556,Green,Azure,Gray,Navy blue,Wheat,Ivory,Silver,Olden,Orange,Yellow
+557,Orange,Plum,White,Azure,Silver,Pea green,Magenta,Lime,Magenta,Brown
+558,Teal,Yellow,Gray,Crimson,Brown,White,Maroon,Brown,Navy blue,Aquamarine
+559,Aquamarine,Orange,Crimson,Wheat,Ivory,Silver,Khaki,Blue,White,Azure
+560,Green,Olden,Yellow,Azure,Wheat,Gray,Plum,Black,Olive,Maroon
+561,Ivory,Brown,Azure,Green,White,White,Wheat,Blue,Aquamarine,Gray
+562,Olive,Maroon,Khaki,Purple,Charcoal,Lime,Red,Coral,Olive,Yellow
+563,Green,Red,Navy blue,Coral,Brown,Azure,Azure,Blue,Cyan,Plum
+564,Fuchsia,Pea green,Blue,Azure,Charcoal,Khaki,Olive,Maroon,Purple,Khaki
+565,Khaki,Aquamarine,Coral,Brown,Hot pink,Fuchsia,Coral,White,Orange,Red
+566,Orange,Hot pink,Gray,Purple,White,Khaki,Hot pink,Green,Orange,Charcoal
+567,Plum,Lime,Aquamarine,Purple,Gray,Olive,Green,Red,Olden,Olden
+568,Blue,Ivory,Purple,Hot pink,Charcoal,Khaki,Magenta,Lime,Red,Aquamarine
+569,Magenta,White,Ivory,Wheat,Red,Lime,Blue,Red,Maroon,Gray
+570,Orange,Coral,Azure,Coral,Charcoal,Olden,Olden,Purple,Ivory,Navy blue
+571,Olden,Magenta,Silver,Brown,Brown,Brown,Khaki,Fuchsia,Navy blue,Lime
+572,Coral,Brown,Aquamarine,Plum,Magenta,Teal,Hot pink,Magenta,Black,Olden
+573,Azure,Lime,Crimson,Purple,Crimson,Maroon,Olive,Black,Hot pink,Olive
+574,Green,Azure,Silver,Purple,Black,Pea green,Crimson,White,Maroon,White
+575,Fuchsia,Olive,Cyan,Charcoal,Olive,Maroon,Azure,Blue,Cyan,Green
+576,Aquamarine,Wheat,Azure,Maroon,Green,Magenta,Teal,Red,Red,Teal
+577,Plum,Magenta,Magenta,Khaki,Wheat,Olden,Pea green,Purple,White,Green
+578,Silver,Olive,Olive,Coral,Orange,Olden,Yellow,Silver,Yellow,Navy blue
+579,Maroon,Black,Plum,Ivory,Khaki,Ivory,Brown,White,Ivory,Aquamarine
+580,Brown,White,Olden,Teal,Silver,Pea green,Green,Fuchsia,Silver,Green
+581,Brown,White,Olden,Crimson,Plum,Navy blue,Wheat,Green,Red,Crimson
+582,Teal,Yellow,Purple,Navy blue,Black,White,Teal,Teal,Crimson,Khaki
+583,White,Olive,Olive,Lime,Gray,Silver,Magenta,Black,Pea green,Hot pink
+584,Wheat,Ivory,Black,Maroon,Crimson,Cyan,Wheat,Lime,Lime,Hot pink
+585,White,Olive,Purple,Orange,Charcoal,Navy blue,Green,Brown,Silver,Coral
+586,Magenta,Black,Khaki,Crimson,Gray,Maroon,Aquamarine,Olive,Aquamarine,Pea green
+587,Cyan,Lime,Cyan,White,Ivory,Lime,Fuchsia,Maroon,Purple,Ivory
+588,Yellow,Ivory,Hot pink,Olden,Hot pink,Purple,Hot pink,Black,Hot pink,Pea green
+589,Azure,Charcoal,Lime,Ivory,Crimson,Crimson,White,Gray,Crimson,Hot pink
+590,Brown,Fuchsia,Hot pink,Yellow,Black,Magenta,Olden,Green,Pea green,Charcoal
+591,Magenta,Gray,Azure,Olden,Red,Coral,Charcoal,Brown,Khaki,Ivory
+592,Yellow,Plum,Pea green,Blue,Cyan,White,Olden,Brown,Teal,Cyan
+593,Navy blue,Wheat,Magenta,Aquamarine,Maroon,Orange,Red,Azure,White,Orange
+594,Azure,Wheat,Teal,Khaki,Black,Magenta,Silver,Hot pink,Orange,Aquamarine
+595,Ivory,Brown,Azure,Khaki,Brown,Charcoal,Aquamarine,Charcoal,Azure,Khaki
+596,White,Charcoal,Aquamarine,Navy blue,Blue,Red,Fuchsia,Teal,Azure,Lime
+597,Purple,Brown,Cyan,Coral,Aquamarine,Fuchsia,Azure,Blue,Azure,Fuchsia
+598,Coral,Blue,Khaki,Azure,Orange,Brown,Magenta,Olden,Magenta,Ivory
+599,Yellow,Orange,Red,Yellow,Lime,Coral,Purple,Coral,Azure,Navy blue
+600,Crimson,Purple,Orange,Pea green,Plum,Orange,Coral,Magenta,Ivory,Aquamarine
+601,Silver,Wheat,Khaki,Olive,Maroon,Azure,Azure,Olive,Azure,Lime
+602,Charcoal,Fuchsia,Black,Red,Teal,Maroon,Green,Plum,Brown,Coral
+603,Aquamarine,Navy blue,Black,Orange,Blue,Brown,Brown,Green,Cyan,Blue
+604,Red,Yellow,Red,Wheat,Teal,Olden,Purple,Yellow,Green,Teal
+605,Red,Lime,Blue,Fuchsia,Coral,Crimson,Charcoal,Black,Silver,Olden
+606,Lime,Aquamarine,Hot pink,Fuchsia,Purple,Maroon,Gray,Aquamarine,Azure,Brown
+607,Red,Ivory,Red,Olden,Maroon,Fuchsia,Magenta,Aquamarine,Olive,Blue
+608,Orange,Olden,Teal,Khaki,White,Plum,Green,Azure,Lime,Azure
+609,Aquamarine,Fuchsia,Ivory,Gray,Brown,Azure,Yellow,Ivory,Olive,Hot pink
+610,Olive,Navy blue,Silver,Silver,Orange,Yellow,Navy blue,Khaki,Red,Purple
+611,Charcoal,Khaki,Brown,Green,Olive,Coral,Silver,Aquamarine,Wheat,Maroon
+612,Green,Ivory,Silver,Red,Charcoal,White,Gray,Olden,Hot pink,Olden
+613,Wheat,Silver,Blue,Crimson,Lime,Olive,Yellow,Orange,Brown,Olden
+614,Blue,Azure,Silver,Red,Teal,Lime,Pea green,Purple,Magenta,Plum
+615,Lime,Olive,Orange,Magenta,Blue,Green,Pea green,Yellow,Orange,Green
+616,Magenta,Red,Teal,Red,Brown,Silver,Plum,Coral,Gray,Yellow
+617,Green,Azure,Crimson,Silver,Khaki,Lime,Fuchsia,Black,Fuchsia,Plum
+618,Teal,Cyan,Brown,Teal,Crimson,Blue,Olive,Coral,Fuchsia,Aquamarine
+619,Fuchsia,Blue,Maroon,Maroon,Red,Ivory,Navy blue,Blue,Aquamarine,Orange
+620,Red,Green,Aquamarine,Wheat,Azure,Teal,Ivory,Teal,Olden,Olive
+621,Lime,Plum,Khaki,Fuchsia,Hot pink,Azure,Crimson,Aquamarine,Magenta,Olive
+622,Orange,Teal,Coral,Pea green,Green,Khaki,Orange,Pea green,Charcoal,Maroon
+623,Aquamarine,Charcoal,Magenta,Navy blue,Brown,Teal,Plum,Gray,Silver,Crimson
+624,Ivory,Coral,Cyan,Navy blue,Crimson,Ivory,Magenta,Khaki,Wheat,Azure
+625,Wheat,Hot pink,Red,Brown,Teal,Azure,Wheat,Black,Pea green,Cyan
+626,Purple,Coral,Khaki,Maroon,Plum,Purple,Silver,Pea green,Fuchsia,Magenta
+627,Cyan,Olden,Olive,Black,Azure,Coral,Crimson,Crimson,Ivory,Crimson
+628,Charcoal,Red,Gray,Silver,Magenta,Maroon,White,Maroon,Plum,Orange
+629,Maroon,Charcoal,Khaki,Ivory,Silver,Lime,Hot pink,Gray,Wheat,Crimson
+630,Magenta,Cyan,Khaki,Teal,Cyan,Orange,Lime,Brown,Yellow,Charcoal
+631,Khaki,Charcoal,Hot pink,Blue,Charcoal,Coral,Red,Gray,Orange,Green
+632,Wheat,Hot pink,Magenta,Red,Plum,Cyan,Orange,Red,Olden,Crimson
+633,Lime,White,Plum,Silver,Gray,White,White,Magenta,Magenta,Wheat
+634,Khaki,Fuchsia,Coral,Navy blue,Green,Crimson,Magenta,Green,Green,Orange
+635,Black,Coral,Cyan,Olive,Green,Fuchsia,Crimson,Olive,Blue,Gray
+636,Purple,Charcoal,Ivory,Khaki,Silver,Pea green,Lime,White,Hot pink,Teal
+637,Pea green,White,Yellow,Black,Khaki,Blue,Cyan,Yellow,Ivory,Wheat
+638,Silver,Brown,Black,Teal,Aquamarine,Ivory,Yellow,Navy blue,Pea green,Purple
+639,Hot pink,Gray,Orange,Olden,Khaki,Hot pink,Purple,Charcoal,Wheat,Purple
+640,Orange,Gray,Brown,Pea green,Maroon,Pea green,Yellow,Azure,Purple,Red
+641,Navy blue,Plum,Red,Gray,Wheat,Red,Ivory,Pea green,Charcoal,Aquamarine
+642,Crimson,Orange,Coral,Yellow,Orange,Olive,Olive,Charcoal,Silver,Orange
+643,Black,Crimson,Brown,Orange,Cyan,Purple,Crimson,Olden,Navy blue,Navy blue
+644,Aquamarine,Fuchsia,Azure,Green,Gray,Yellow,Silver,Brown,Azure,Hot pink
+645,Blue,Charcoal,Khaki,Azure,Azure,Green,Orange,Teal,Navy blue,Green
+646,Silver,Silver,Magenta,Azure,Purple,Navy blue,Brown,Aquamarine,Lime,Cyan
+647,Yellow,Blue,White,Navy blue,Navy blue,Orange,Orange,Navy blue,Crimson,Fuchsia
+648,Blue,Silver,Green,Maroon,Hot pink,Coral,Cyan,Wheat,Crimson,Ivory
+649,Blue,Green,Teal,Silver,Fuchsia,Silver,Olive,Ivory,Pea green,Olive
+650,Purple,Navy blue,Charcoal,Orange,Charcoal,Silver,Hot pink,Azure,Gray,Brown
+651,Maroon,Silver,Maroon,Olden,Lime,Olive,Red,Blue,Teal,Blue
+652,Cyan,Cyan,Azure,White,Blue,Plum,Wheat,Aquamarine,Green,Gray
+653,Silver,Brown,Red,Fuchsia,Pea green,Ivory,Azure,Olden,Fuchsia,Brown
+654,Charcoal,Teal,Charcoal,Khaki,Maroon,Khaki,Navy blue,Olden,Lime,Khaki
+655,Silver,Pea green,Black,Maroon,Gray,Khaki,Blue,Lime,Charcoal,Olden
+656,Navy blue,Maroon,Hot pink,Aquamarine,Purple,Purple,Fuchsia,Purple,Navy blue,Maroon
+657,Gray,Wheat,Khaki,Red,Hot pink,Blue,Cyan,Maroon,Pea green,Coral
+658,Purple,Crimson,Ivory,Ivory,Red,Wheat,Lime,Olive,Brown,Maroon
+659,Red,Wheat,Plum,Green,Yellow,Olive,Yellow,Aquamarine,Wheat,Azure
+660,Gray,Navy blue,Blue,Charcoal,White,White,Coral,Ivory,Silver,Coral
+661,Yellow,Magenta,Hot pink,Olive,Wheat,Cyan,Purple,Cyan,Fuchsia,Olive
+662,Fuchsia,Fuchsia,Azure,Crimson,Charcoal,Pea green,Orange,Olive,White,Purple
+663,Green,Fuchsia,Yellow,Magenta,Fuchsia,Fuchsia,Blue,Silver,Lime,Pea green
+664,Coral,Coral,White,Purple,Teal,Brown,Blue,Yellow,Crimson,Plum
+665,Crimson,Cyan,Fuchsia,Red,Green,Fuchsia,Maroon,Yellow,Khaki,Teal
+666,Blue,Yellow,Lime,Blue,Teal,Purple,Orange,Maroon,Green,Orange
+667,Wheat,Azure,Plum,Gray,Khaki,Silver,Aquamarine,Orange,Cyan,Magenta
+668,Azure,Red,Blue,Olden,Olden,Cyan,Cyan,Black,Charcoal,Brown
+669,Pea green,Red,Fuchsia,Azure,Plum,Fuchsia,Azure,Ivory,Pea green,Blue
+670,Maroon,Pea green,Red,Red,Ivory,Khaki,Red,Lime,Cyan,Red
+671,Cyan,Aquamarine,Coral,Plum,Orange,Plum,White,Coral,Fuchsia,Olive
+672,Wheat,White,Gray,Olive,Yellow,Brown,Black,Wheat,Crimson,Blue
+673,Yellow,Azure,Green,Cyan,Purple,Gray,Red,Azure,Orange,Hot pink
+674,Olden,Pea green,Aquamarine,Red,Green,Blue,Gray,Maroon,Brown,Olive
+675,Ivory,Lime,Gray,Pea green,Pea green,Lime,Crimson,Cyan,Silver,Ivory
+676,Wheat,Purple,Red,Black,Aquamarine,Purple,Coral,Hot pink,Olden,Purple
+677,Pea green,Green,Pea green,Black,Wheat,Azure,Charcoal,Black,Coral,Silver
+678,Purple,Blue,White,Aquamarine,White,Olden,Crimson,Brown,Fuchsia,Wheat
+679,White,Olive,White,Wheat,Brown,White,Black,Crimson,Green,Magenta
+680,Silver,White,Plum,Plum,Fuchsia,Ivory,Silver,Magenta,Olden,Wheat
+681,Green,Ivory,Orange,Yellow,Red,Purple,Fuchsia,Crimson,Lime,Aquamarine
+682,Fuchsia,Coral,Charcoal,Khaki,Black,Azure,Red,Plum,Navy blue,Coral
+683,Coral,White,Black,Khaki,Teal,Gray,Green,Blue,Maroon,Azure
+684,Brown,White,Green,Azure,Ivory,Teal,Wheat,Green,Orange,Yellow
+685,Blue,Charcoal,Ivory,Maroon,Magenta,Pea green,Red,Silver,Khaki,Coral
+686,Yellow,Maroon,Gray,Aquamarine,Pea green,Yellow,Aquamarine,Khaki,Crimson,Silver
+687,Plum,Crimson,Silver,Azure,Red,Silver,Coral,Fuchsia,Maroon,Hot pink
+688,Fuchsia,Black,Navy blue,Red,Magenta,Navy blue,Navy blue,Maroon,Navy blue,Ivory
+689,Lime,Wheat,Olden,Khaki,Green,Green,Black,White,Fuchsia,Crimson
+690,Olden,Wheat,Lime,Ivory,Crimson,Coral,Black,Charcoal,Azure,Brown
+691,Navy blue,White,Lime,Cyan,Aquamarine,Coral,Purple,Pea green,Pea green,Red
+692,Aquamarine,Magenta,White,Fuchsia,Lime,Lime,Red,Silver,Black,Green
+693,Olive,Purple,Cyan,Yellow,Blue,Silver,Olden,Blue,Pea green,Red
+694,Fuchsia,Maroon,Azure,Lime,Plum,Aquamarine,Olden,Magenta,Azure,Purple
+695,Cyan,Purple,Gray,Gray,Orange,Maroon,Magenta,Magenta,Red,Navy blue
+696,Ivory,Green,Purple,Green,Wheat,Blue,Wheat,Teal,Navy blue,Olive
+697,Black,Olden,Teal,Coral,Orange,Lime,Red,Purple,Olden,Azure
+698,Hot pink,Crimson,Silver,Crimson,Hot pink,Green,Brown,Plum,Maroon,White
+699,Ivory,Khaki,Aquamarine,Black,Blue,Olive,Olden,Pea green,Azure,Ivory
+700,Wheat,Blue,Aquamarine,Black,Purple,Coral,Fuchsia,Charcoal,Coral,Coral
+701,Ivory,Silver,Ivory,Navy blue,Blue,Azure,Hot pink,Gray,Gray,Olden
+702,Olive,Aquamarine,Crimson,Coral,Black,Blue,Green,Pea green,White,Green
+703,Crimson,Gray,Wheat,Olive,Maroon,Blue,Red,Pea green,Purple,Navy blue
+704,Yellow,Brown,Pea green,Pea green,Orange,Azure,Silver,Blue,Yellow,Wheat
+705,Hot pink,Yellow,Khaki,Green,Khaki,Orange,Wheat,Lime,Plum,Red
+706,Khaki,Maroon,Brown,Navy blue,Black,Brown,Orange,Orange,Lime,Maroon
+707,Lime,Navy blue,Green,Yellow,Fuchsia,Hot pink,Maroon,Green,Charcoal,Silver
+708,Olden,Olive,Pea green,Lime,Yellow,Aquamarine,Navy blue,Hot pink,Brown,Black
+709,Hot pink,Purple,Brown,Khaki,Charcoal,Yellow,Black,Brown,Olive,Wheat
+710,Teal,Green,Cyan,Hot pink,Plum,Aquamarine,Green,Fuchsia,Fuchsia,White
+711,Fuchsia,Red,Navy blue,Pea green,Blue,Charcoal,Magenta,Khaki,Azure,Olive
+712,Teal,Olden,Silver,Orange,Silver,Khaki,Purple,Olive,Charcoal,Pea green
+713,Hot pink,White,Purple,Ivory,Purple,Brown,Brown,Gray,Pea green,Magenta
+714,Cyan,Crimson,Plum,Yellow,Olden,Black,Purple,Purple,Silver,Black
+715,Gray,Aquamarine,Orange,Fuchsia,Pea green,Blue,Hot pink,Olive,White,Maroon
+716,Black,Blue,Black,Maroon,Lime,Brown,Wheat,Lime,Khaki,Aquamarine
+717,Wheat,Olive,Olden,Olive,Olden,Hot pink,Brown,Charcoal,Silver,Fuchsia
+718,Orange,Yellow,Maroon,Purple,Silver,Plum,Olden,Gray,Lime,Orange
+719,Green,Olive,Blue,Hot pink,Hot pink,Gray,Cyan,Wheat,Silver,Olive
+720,Olden,Cyan,Ivory,Khaki,Brown,Aquamarine,Purple,Cyan,Navy blue,Navy blue
+721,Azure,Wheat,Silver,Silver,Gray,Aquamarine,Black,Black,Silver,Gray
+722,Fuchsia,Crimson,Red,Magenta,Lime,Crimson,Hot pink,Lime,Ivory,Fuchsia
+723,Maroon,Green,Navy blue,Olive,Azure,Purple,Blue,Plum,Orange,Azure
+724,Magenta,Pea green,Green,Olden,Hot pink,Purple,Coral,Teal,Magenta,Red
+725,Green,Crimson,Lime,Magenta,White,Red,Brown,Silver,Red,Azure
+726,Yellow,Purple,Ivory,Blue,Purple,Cyan,Wheat,Azure,Silver,Fuchsia
+727,Cyan,Crimson,Cyan,Black,Cyan,Ivory,Teal,Blue,Teal,Ivory
+728,Coral,Maroon,Plum,Maroon,Purple,Red,Blue,Yellow,Hot pink,Ivory
+729,Gray,Green,Gray,Red,Pea green,Fuchsia,Olden,Lime,Charcoal,Crimson
+730,Plum,Coral,Aquamarine,Silver,Brown,Ivory,Aquamarine,Silver,Silver,Hot pink
+731,Gray,Lime,Black,Purple,Hot pink,Crimson,Blue,Wheat,Plum,Hot pink
+732,Yellow,Olden,Charcoal,Wheat,Crimson,Black,Wheat,Fuchsia,Silver,Orange
+733,Aquamarine,Olden,Magenta,Orange,Olive,Magenta,Coral,Red,Black,Magenta
+734,Lime,Magenta,Red,Plum,Red,Gray,Gray,Black,Wheat,Purple
+735,Azure,Ivory,Olive,Yellow,Gray,Wheat,Yellow,Azure,Teal,Brown
+736,Pea green,Olive,Plum,Khaki,Green,Aquamarine,Green,Blue,Olden,Charcoal
+737,Olden,Olden,Teal,Ivory,Teal,Gray,Teal,Cyan,Olden,Black
+738,Wheat,White,White,Aquamarine,Pea green,Black,Yellow,Olive,Charcoal,Coral
+739,Hot pink,Purple,Red,Crimson,Charcoal,Plum,Magenta,Pea green,Plum,Fuchsia
+740,Blue,Black,Purple,Purple,Teal,Charcoal,Olive,Ivory,Hot pink,Purple
+741,Orange,Olden,Plum,Khaki,Gray,Ivory,Magenta,Ivory,Blue,Aquamarine
+742,Khaki,Orange,Navy blue,Lime,Coral,Purple,Gray,Cyan,Green,Coral
+743,Wheat,Green,Black,Wheat,Olden,Olive,Fuchsia,Coral,Pea green,Cyan
+744,Crimson,Brown,Azure,Purple,Pea green,Magenta,Green,Pea green,Olden,Khaki
+745,Coral,Gray,Coral,Olden,Khaki,Maroon,Wheat,Purple,Coral,Silver
+746,Khaki,Green,Hot pink,Purple,Gray,Yellow,Coral,Teal,Lime,Orange
+747,Cyan,Brown,Orange,Silver,Fuchsia,Magenta,Wheat,Magenta,Teal,Charcoal
+748,Brown,Purple,Hot pink,Fuchsia,Ivory,Olive,Plum,Lime,Silver,Hot pink
+749,Azure,Orange,Azure,Pea green,Cyan,Ivory,Blue,Silver,Black,Maroon
+750,Purple,Maroon,Pea green,Silver,Maroon,Yellow,Navy blue,Ivory,Olive,Teal
+751,Black,Hot pink,Maroon,Charcoal,Teal,Black,Olive,Olden,Azure,Red
+752,Red,Silver,Olden,Gray,Red,Coral,Blue,Black,Black,Silver
+753,Green,Black,Fuchsia,Hot pink,Ivory,Khaki,Charcoal,Olden,Olden,Blue
+754,Yellow,Maroon,Khaki,Charcoal,Orange,White,Ivory,Magenta,Khaki,Lime
+755,Magenta,Olden,Aquamarine,Olive,Navy blue,Lime,Yellow,Orange,Lime,Yellow
+756,Fuchsia,Purple,Wheat,Charcoal,Hot pink,Teal,Gray,Fuchsia,Blue,Brown
+757,Aquamarine,Coral,Blue,Teal,Yellow,Plum,Magenta,Hot pink,Ivory,Charcoal
+758,Maroon,Green,Khaki,Green,Navy blue,Olden,White,Pea green,Brown,Black
+759,Yellow,Crimson,Brown,Plum,Khaki,Pea green,Aquamarine,Navy blue,Magenta,Plum
+760,Green,Orange,Plum,Plum,Teal,Khaki,Aquamarine,Charcoal,Charcoal,Black
+761,Navy blue,Plum,Wheat,Brown,Ivory,Navy blue,Magenta,Navy blue,Wheat,Olden
+762,Maroon,Coral,Magenta,White,Aquamarine,Red,Fuchsia,Plum,Khaki,Orange
+763,Magenta,Maroon,Gray,Orange,Navy blue,Silver,Coral,Olden,Yellow,Purple
+764,Maroon,Green,Yellow,Lime,Aquamarine,Navy blue,Plum,Ivory,Olden,Purple
+765,Blue,Purple,Black,Coral,Ivory,Olden,Purple,Wheat,Ivory,Purple
+766,Khaki,Blue,Maroon,Crimson,Charcoal,Gray,Maroon,White,Maroon,Teal
+767,Magenta,Black,Orange,White,Purple,Brown,Azure,Maroon,Magenta,Ivory
+768,Black,Cyan,Azure,Aquamarine,Lime,Lime,Lime,Blue,Wheat,Maroon
+769,Silver,Olden,Yellow,Brown,Cyan,Plum,Green,Red,Red,Wheat
+770,Green,Red,Pea green,Maroon,Fuchsia,Crimson,Charcoal,Charcoal,Purple,Lime
+771,Gray,Coral,Charcoal,Black,Navy blue,Lime,Maroon,Green,Ivory,Crimson
+772,Khaki,Gray,Red,Green,Blue,Maroon,Olive,Khaki,Silver,Purple
+773,Fuchsia,Purple,Ivory,Blue,Hot pink,Ivory,Silver,Wheat,White,Crimson
+774,Blue,Blue,Pea green,Navy blue,Maroon,Magenta,Olive,Coral,Olive,White
+775,Yellow,Plum,Magenta,Maroon,Wheat,Purple,Crimson,Brown,Purple,Navy blue
+776,Blue,Orange,Orange,Ivory,Yellow,Fuchsia,Brown,Orange,Olive,Green
+777,Navy blue,Ivory,Charcoal,Purple,Azure,Orange,Crimson,Green,Purple,Aquamarine
+778,Navy blue,Orange,Orange,Magenta,Olive,Cyan,Pea green,Brown,Fuchsia,Azure
+779,Purple,Olden,Gray,Orange,Orange,Black,Pea green,Purple,Aquamarine,Hot pink
+780,Olive,Coral,Purple,Lime,Olden,Ivory,Maroon,Orange,Aquamarine,Wheat
+781,Charcoal,Wheat,Black,Magenta,Orange,Crimson,Cyan,Gray,Olden,Pea green
+782,Green,Fuchsia,Magenta,Ivory,Wheat,Cyan,Navy blue,Silver,Yellow,Olden
+783,Charcoal,Hot pink,Plum,Plum,Crimson,Red,Maroon,Khaki,Orange,Silver
+784,Olden,Green,Coral,Silver,Navy blue,Fuchsia,Lime,Brown,Black,White
+785,Coral,Cyan,Purple,Lime,Hot pink,Red,Cyan,Green,Orange,Wheat
+786,Silver,Gray,Orange,Aquamarine,Ivory,Hot pink,Azure,Gray,Olden,Azure
+787,Black,Cyan,Teal,Plum,Orange,Cyan,Gray,Charcoal,Orange,Maroon
+788,Red,Hot pink,Silver,Black,Ivory,Crimson,Aquamarine,Azure,Purple,Silver
+789,Azure,Crimson,Blue,White,Hot pink,Purple,Olive,White,Aquamarine,Azure
+790,Azure,White,Olive,Red,Blue,Purple,Olden,Yellow,Fuchsia,Purple
+791,Yellow,Ivory,Black,Khaki,White,Coral,Magenta,Crimson,Khaki,Magenta
+792,Black,Pea green,Silver,Fuchsia,Yellow,Charcoal,Cyan,Brown,Navy blue,Gray
+793,Plum,Red,Olden,Orange,Coral,Yellow,Crimson,Olive,Khaki,Magenta
+794,Purple,Olden,Aquamarine,Gray,Magenta,Khaki,Wheat,Magenta,Fuchsia,Crimson
+795,Blue,Olden,Green,Red,Navy blue,Brown,Aquamarine,Coral,Maroon,Olden
+796,Magenta,Blue,Ivory,Aquamarine,Wheat,Green,Yellow,Khaki,Azure,Cyan
+797,Aquamarine,Coral,Charcoal,Teal,Crimson,Maroon,Crimson,Aquamarine,Teal,Crimson
+798,Cyan,Plum,Brown,Magenta,Teal,Orange,Brown,Plum,Brown,Pea green
+799,White,Red,Charcoal,Blue,Olive,Magenta,Yellow,Maroon,Yellow,Navy blue
+800,Brown,Blue,Purple,Olden,Azure,Blue,Orange,Cyan,Coral,Hot pink
+801,Olive,Khaki,Olden,Coral,Crimson,Charcoal,Khaki,Olive,Navy blue,Magenta
+802,Teal,Lime,Charcoal,Gray,Green,Gray,Ivory,Azure,Crimson,Lime
+803,Navy blue,Aquamarine,Hot pink,Crimson,Coral,Ivory,Aquamarine,Yellow,Plum,Red
+804,Khaki,Maroon,Navy blue,Teal,Gray,Charcoal,Hot pink,Wheat,Green,Brown
+805,Green,Yellow,Cyan,Yellow,Gray,Azure,Magenta,Navy blue,Aquamarine,Plum
+806,White,Red,Magenta,Lime,Navy blue,Plum,Maroon,Aquamarine,White,Aquamarine
+807,Fuchsia,Black,Blue,Gray,White,Yellow,Ivory,Khaki,Gray,Lime
+808,Cyan,Hot pink,Ivory,Blue,Black,Blue,Purple,Black,Orange,Azure
+809,Gray,Navy blue,Olive,Olive,Gray,Ivory,Hot pink,Blue,Red,Crimson
+810,Blue,Red,Coral,Plum,Wheat,Navy blue,Hot pink,Olive,Yellow,Magenta
+811,Charcoal,White,Lime,Yellow,Green,Maroon,Azure,Navy blue,Coral,Orange
+812,Pea green,Cyan,Azure,Brown,Navy blue,Crimson,Aquamarine,Wheat,Green,Azure
+813,Red,Teal,Brown,Azure,Brown,Azure,Cyan,Maroon,Cyan,Black
+814,Olden,White,Aquamarine,Charcoal,Green,Pea green,Navy blue,Green,Teal,Khaki
+815,Olive,Ivory,Teal,White,Plum,Olive,Wheat,Red,Teal,Wheat
+816,Azure,Hot pink,Black,Teal,Red,Cyan,Yellow,Green,Aquamarine,Red
+817,Lime,Silver,Olive,Cyan,Fuchsia,Maroon,Wheat,Magenta,White,Brown
+818,Charcoal,Olden,Wheat,Charcoal,Lime,Yellow,Pea green,Red,Cyan,Orange
+819,Charcoal,Aquamarine,White,Plum,Cyan,Blue,Magenta,Fuchsia,Ivory,Hot pink
+820,Wheat,Ivory,Plum,Hot pink,Lime,Pea green,White,Fuchsia,White,Ivory
+821,Ivory,Teal,Plum,Hot pink,Purple,Wheat,Pea green,Lime,Azure,Green
+822,Maroon,Ivory,Plum,Hot pink,Orange,Brown,Black,Yellow,Olden,Ivory
+823,Wheat,Ivory,Lime,Cyan,Olive,Coral,Charcoal,Purple,Olden,Navy blue
+824,Red,Silver,Charcoal,Brown,Magenta,Hot pink,Cyan,Crimson,Magenta,Aquamarine
+825,Lime,Gray,Purple,Olden,Charcoal,Silver,Teal,Black,Olive,Yellow
+826,Ivory,Blue,Silver,Olden,Khaki,Blue,Brown,Olden,Brown,Cyan
+827,Teal,Lime,Khaki,Orange,Gray,Green,Purple,Lime,Orange,Wheat
+828,Pea green,Charcoal,Green,Azure,Charcoal,Crimson,Purple,Lime,Lime,Khaki
+829,Olden,Wheat,Fuchsia,Brown,White,Aquamarine,Aquamarine,Purple,Cyan,Silver
+830,Magenta,Green,Olive,Yellow,Hot pink,Cyan,Yellow,Yellow,Black,Coral
+831,Hot pink,Navy blue,Khaki,Red,Lime,Cyan,Lime,Silver,Blue,Navy blue
+832,Olden,Coral,Pea green,Magenta,Blue,Blue,Azure,Pea green,Navy blue,Khaki
+833,Cyan,Khaki,Teal,Hot pink,Navy blue,Black,Cyan,Magenta,Navy blue,Cyan
+834,Fuchsia,Silver,Purple,Khaki,Magenta,Silver,Olden,Brown,Silver,Fuchsia
+835,Blue,Blue,Wheat,Black,Crimson,Fuchsia,Gray,Khaki,Plum,Charcoal
+836,Khaki,Yellow,Silver,Fuchsia,Blue,Lime,Maroon,Olive,Lime,Olive
+837,Ivory,Green,Plum,Aquamarine,Olden,Orange,Khaki,Navy blue,Cyan,Khaki
+838,Aquamarine,Lime,Red,Lime,Brown,Pea green,Crimson,Ivory,Silver,Pea green
+839,Wheat,Fuchsia,Olive,Olive,Olden,White,Coral,Fuchsia,Orange,Yellow
+840,Ivory,Purple,Lime,Maroon,Blue,Lime,Charcoal,Cyan,Lime,Blue
+841,Maroon,Brown,Cyan,Khaki,Black,White,Olive,Olden,Hot pink,Green
+842,Charcoal,Aquamarine,White,Red,Ivory,Pea green,Lime,Orange,Wheat,Teal
+843,White,Blue,Azure,Yellow,Brown,Hot pink,Maroon,Hot pink,Khaki,Olive
+844,Azure,Green,Crimson,Crimson,Black,Plum,Cyan,White,Green,Navy blue
+845,Azure,Black,Olive,Blue,Teal,Green,Olive,Hot pink,Teal,Silver
+846,Blue,Teal,Charcoal,Black,Maroon,Purple,Lime,Olden,Plum,Crimson
+847,Azure,Purple,Fuchsia,Magenta,Ivory,Blue,Olden,Olive,Navy blue,Coral
+848,Ivory,White,Maroon,Gray,Khaki,Orange,Blue,Black,Purple,Aquamarine
+849,Hot pink,Olden,Red,Hot pink,Purple,Azure,Fuchsia,Silver,Black,White
+850,Blue,Blue,Magenta,Coral,Cyan,Lime,Navy blue,Charcoal,Wheat,Magenta
+851,Yellow,Aquamarine,Purple,Olive,Black,Olden,Aquamarine,Charcoal,Gray,White
+852,Olive,Magenta,Yellow,Silver,Navy blue,Crimson,Orange,Navy blue,Azure,Gray
+853,Gray,Silver,Charcoal,Orange,White,Hot pink,Crimson,Red,Red,Gray
+854,Ivory,Plum,Orange,Brown,Aquamarine,Pea green,Black,Crimson,Magenta,White
+855,Blue,Azure,Ivory,Fuchsia,Magenta,Ivory,Orange,Charcoal,White,Plum
+856,Fuchsia,Khaki,Azure,Teal,Maroon,Magenta,Orange,Fuchsia,Red,Black
+857,Olden,Cyan,Fuchsia,Plum,Green,Cyan,Yellow,Khaki,Charcoal,Pea green
+858,Magenta,Crimson,Azure,Gray,Fuchsia,Fuchsia,Magenta,Aquamarine,Azure,Blue
+859,Silver,Maroon,Purple,Olive,Yellow,Ivory,Teal,Gray,Fuchsia,Orange
+860,Blue,Magenta,Cyan,Teal,Magenta,Gray,Teal,Azure,Red,Magenta
+861,Maroon,Aquamarine,Cyan,Pea green,Blue,Pea green,Lime,Purple,Brown,Teal
+862,Fuchsia,Coral,Pea green,Coral,Black,Crimson,Navy blue,Coral,White,Magenta
+863,Plum,Wheat,Blue,Red,Khaki,Lime,Maroon,Silver,Charcoal,Silver
+864,Magenta,Teal,Wheat,Azure,Khaki,Khaki,Cyan,Pea green,Cyan,Plum
+865,Khaki,Green,Aquamarine,White,Blue,Crimson,Plum,Cyan,Maroon,Cyan
+866,Plum,Coral,Magenta,Teal,Black,Yellow,Magenta,Blue,Yellow,Olden
+867,Maroon,Crimson,Maroon,Maroon,Cyan,Wheat,Red,Cyan,Black,Brown
+868,Wheat,Fuchsia,Khaki,Orange,Wheat,Magenta,Plum,Blue,Teal,Azure
+869,Azure,Azure,Ivory,Coral,Yellow,Hot pink,Orange,Brown,Coral,Purple
+870,Coral,Green,Orange,Teal,Coral,Blue,Charcoal,Ivory,Magenta,Coral
+871,Hot pink,Yellow,White,Plum,Gray,Olive,Magenta,Black,Ivory,Olive
+872,Silver,Blue,Khaki,Blue,Khaki,Hot pink,Red,Khaki,Ivory,Black
+873,Crimson,Aquamarine,Yellow,Crimson,Fuchsia,Blue,Gray,Magenta,Olive,Fuchsia
+874,Wheat,Purple,Teal,Lime,Pea green,Gray,Hot pink,Black,Gray,Magenta
+875,Blue,Green,Purple,Silver,Maroon,Teal,Fuchsia,Orange,Azure,Red
+876,Navy blue,Teal,Lime,Plum,Yellow,Crimson,Cyan,Orange,Olden,Green
+877,Maroon,Silver,Fuchsia,Magenta,Red,Silver,Olive,Coral,Black,Crimson
+878,Olive,Teal,Maroon,Red,Aquamarine,Red,Black,Blue,White,Khaki
+879,Aquamarine,Aquamarine,Red,Olden,Gray,Fuchsia,Maroon,Blue,Olden,Hot pink
+880,Plum,Blue,Purple,Hot pink,Plum,Wheat,Wheat,Aquamarine,Hot pink,Khaki
+881,White,Brown,Olden,Green,Coral,Khaki,Blue,Green,Black,Ivory
+882,Red,Green,Khaki,Lime,Azure,Ivory,Ivory,Pea green,Black,Cyan
+883,Lime,Ivory,Blue,Lime,Fuchsia,Wheat,Cyan,Coral,Brown,Purple
+884,Olden,Orange,Red,Teal,Pea green,Teal,Charcoal,Navy blue,Brown,Silver
+885,Crimson,Orange,Azure,Navy blue,Green,Red,Yellow,Fuchsia,Yellow,Yellow
+886,Silver,Lime,White,Green,Olive,Magenta,Wheat,Azure,Olden,Gray
+887,Charcoal,Navy blue,Silver,Blue,Ivory,Lime,Teal,Gray,Cyan,Fuchsia
+888,Crimson,Khaki,Green,Black,Navy blue,Blue,Olden,Yellow,Purple,Yellow
+889,Wheat,Plum,Ivory,Cyan,Charcoal,Lime,Cyan,Crimson,White,Gray
+890,Red,Gray,Ivory,Charcoal,Plum,Hot pink,Wheat,Teal,Teal,Crimson
+891,Khaki,Yellow,Cyan,Khaki,Black,Black,Green,Teal,White,White
+892,Maroon,Yellow,Orange,Azure,Red,Wheat,Plum,Teal,Azure,Maroon
+893,White,Purple,Olive,Gray,Ivory,Azure,Silver,Olive,Red,Charcoal
+894,Black,Coral,Teal,Yellow,Navy blue,Yellow,Azure,White,Red,Magenta
+895,Olive,Coral,Orange,Hot pink,White,Magenta,Olden,Lime,Plum,Pea green
+896,Cyan,Azure,Red,Plum,Fuchsia,Yellow,Silver,Magenta,Black,Cyan
+897,Silver,Purple,Orange,Wheat,Green,Khaki,Silver,Orange,Khaki,Gray
+898,Khaki,Hot pink,Aquamarine,Fuchsia,Purple,Navy blue,White,Charcoal,Cyan,Green
+899,Coral,Orange,Khaki,Charcoal,Plum,Magenta,Coral,Orange,Coral,Cyan
+900,Pea green,Plum,Green,Azure,Olive,Purple,Navy blue,Brown,Coral,Plum
+901,Charcoal,Navy blue,Coral,Khaki,Wheat,Azure,Hot pink,Plum,Navy blue,Olive
+902,Khaki,Gray,Gray,Magenta,Olive,Navy blue,Plum,Silver,Cyan,Black
+903,Silver,Maroon,Orange,Teal,Silver,Khaki,Navy blue,Olive,Khaki,Olive
+904,Magenta,Red,Olden,Aquamarine,Olden,Charcoal,Lime,Purple,Red,Orange
+905,Red,Purple,Yellow,Green,Gray,Green,Ivory,Cyan,Black,Khaki
+906,Plum,Green,Olden,Lime,Cyan,Khaki,Pea green,Cyan,Green,Azure
+907,Black,Blue,Green,Wheat,Cyan,Lime,Olden,Olive,Cyan,Yellow
+908,Black,Orange,Coral,Azure,Charcoal,Khaki,Plum,Khaki,Cyan,Maroon
+909,Aquamarine,Teal,Orange,Silver,Silver,Navy blue,White,Orange,Purple,Cyan
+910,Lime,Red,Ivory,Lime,Green,Cyan,Teal,Cyan,Plum,Pea green
+911,Ivory,Black,Olden,Aquamarine,Olive,White,Hot pink,Aquamarine,Red,Azure
+912,Blue,Ivory,Navy blue,White,Wheat,Khaki,Blue,Khaki,Pea green,Teal
+913,Charcoal,Khaki,Magenta,Maroon,Gray,Red,Crimson,Magenta,Black,Hot pink
+914,Azure,Coral,Aquamarine,Maroon,Crimson,Lime,White,Teal,Crimson,Green
+915,Blue,Brown,Red,Maroon,Yellow,Wheat,Olive,Aquamarine,Aquamarine,Blue
+916,Olden,Teal,Brown,Navy blue,Ivory,Cyan,Blue,Khaki,Charcoal,Khaki
+917,Olive,Fuchsia,Fuchsia,Hot pink,Azure,Coral,Yellow,Fuchsia,Purple,Yellow
+918,Ivory,Green,Fuchsia,Pea green,Fuchsia,Ivory,Azure,Charcoal,Black,Yellow
+919,Azure,Khaki,Purple,Lime,Azure,Cyan,Teal,Brown,Blue,Hot pink
+920,Aquamarine,Pea green,Charcoal,Cyan,Ivory,Charcoal,Blue,Brown,Maroon,Azure
+921,Coral,Coral,Hot pink,Lime,Charcoal,Hot pink,Gray,Gray,Plum,Magenta
+922,Azure,Orange,Plum,Green,Olden,Teal,Fuchsia,White,Blue,Blue
+923,Charcoal,Maroon,Silver,Wheat,Silver,Blue,Lime,Fuchsia,Gray,Orange
+924,Teal,Black,Blue,Navy blue,Gray,Yellow,Maroon,Fuchsia,Teal,Azure
+925,Hot pink,Charcoal,Green,Plum,Orange,Green,Hot pink,Navy blue,Blue,Navy blue
+926,Olden,Gray,Red,Pea green,Wheat,Brown,Maroon,Yellow,Teal,White
+927,Navy blue,Cyan,Green,Navy blue,Khaki,Cyan,White,Crimson,Blue,Teal
+928,Charcoal,Magenta,Yellow,Blue,Charcoal,Khaki,Khaki,Khaki,Yellow,Lime
+929,Gray,Fuchsia,Crimson,Black,Cyan,Charcoal,Aquamarine,Plum,Silver,Khaki
+930,Silver,Maroon,Purple,Azure,Orange,Lime,Gray,Teal,Red,Maroon
+931,Black,Plum,Plum,Red,Coral,Plum,Plum,Aquamarine,Teal,Coral
+932,Red,Olive,Fuchsia,Khaki,Navy blue,Aquamarine,Teal,Red,Yellow,Red
+933,Cyan,Pea green,Charcoal,Plum,Maroon,Brown,Yellow,Gray,Khaki,Purple
+934,Black,Yellow,Blue,White,Red,Coral,Fuchsia,Maroon,Ivory,Fuchsia
+935,Yellow,Red,Brown,Magenta,Brown,Lime,Crimson,Coral,Charcoal,Fuchsia
+936,Azure,Hot pink,Charcoal,White,Blue,Aquamarine,Teal,Teal,Olden,Black
+937,Silver,Blue,Magenta,Navy blue,Magenta,White,Red,White,Wheat,White
+938,Coral,Orange,Yellow,Olive,Khaki,Plum,Aquamarine,Wheat,Pea green,White
+939,Green,Khaki,Khaki,Yellow,Hot pink,Olive,Olden,Black,Crimson,Pea green
+940,Hot pink,Olive,Azure,Purple,Green,Magenta,Magenta,Gray,Gray,Olden
+941,Red,Red,Green,Coral,Maroon,Magenta,Silver,Black,Khaki,Ivory
+942,Orange,Brown,Navy blue,Lime,Fuchsia,Blue,Black,Crimson,Aquamarine,Teal
+943,Magenta,Teal,Aquamarine,Azure,Red,Green,Blue,Khaki,Hot pink,Magenta
+944,Maroon,Olive,Navy blue,Coral,Plum,Navy blue,Teal,Azure,Navy blue,Yellow
+945,Red,Navy blue,Olive,Fuchsia,Lime,Brown,Coral,Khaki,Gray,Crimson
+946,Lime,Black,Aquamarine,Maroon,Fuchsia,Ivory,Azure,Coral,Aquamarine,Charcoal
+947,Blue,Coral,Cyan,Cyan,Fuchsia,Navy blue,Charcoal,Magenta,Purple,Green
+948,Black,Navy blue,Blue,Olden,Maroon,Coral,Plum,Green,Lime,Orange
+949,Pea green,Plum,Azure,Crimson,Brown,Blue,Green,Green,Green,Charcoal
+950,Ivory,Plum,Crimson,Coral,Brown,Olive,Lime,Crimson,Charcoal,Pea green
+951,Olden,Azure,Coral,Black,Teal,Cyan,Crimson,Orange,Cyan,Blue
+952,Navy blue,Black,Olden,Green,Olive,Fuchsia,Blue,Hot pink,Crimson,Olive
+953,Maroon,Magenta,Crimson,Magenta,Wheat,Olive,Charcoal,Purple,Khaki,Khaki
+954,Magenta,Fuchsia,Coral,Cyan,Crimson,Charcoal,Orange,Coral,Maroon,Ivory
+955,Aquamarine,Crimson,Charcoal,Crimson,Khaki,Khaki,Teal,Coral,Silver,Orange
+956,Silver,Silver,Magenta,White,Ivory,Blue,Teal,Hot pink,Hot pink,Pea green
+957,Khaki,Coral,Charcoal,Green,Black,Silver,Khaki,Orange,Silver,Blue
+958,Blue,Olden,Lime,Yellow,Silver,Blue,Maroon,Purple,Navy blue,Magenta
+959,Black,Teal,Gray,White,Wheat,Gray,White,Ivory,Plum,Olden
+960,Plum,Gray,Khaki,Crimson,Teal,Pea green,Silver,Orange,Navy blue,Plum
+961,Lime,Olive,Red,Magenta,Charcoal,Hot pink,Navy blue,Silver,Fuchsia,Coral
+962,Coral,Olden,Crimson,Blue,Pea green,Hot pink,Magenta,Olden,Yellow,Silver
+963,Pea green,Yellow,Plum,Magenta,Purple,Purple,Gray,Charcoal,Khaki,Gray
+964,Blue,Red,Coral,Maroon,Cyan,Charcoal,Purple,Purple,Purple,Hot pink
+965,Hot pink,Wheat,Purple,White,Charcoal,Olden,Yellow,Plum,Navy blue,Cyan
+966,White,Orange,Plum,Wheat,White,Yellow,Olive,Lime,Orange,Blue
+967,Purple,Wheat,Gray,Olden,Yellow,Black,Magenta,Khaki,Maroon,Red
+968,Maroon,Wheat,Silver,White,Azure,Yellow,Aquamarine,Fuchsia,Azure,Pea green
+969,Coral,Orange,Blue,Cyan,Ivory,Red,Cyan,Aquamarine,Orange,Hot pink
+970,Coral,Orange,Blue,Silver,Olden,Hot pink,Charcoal,Azure,Ivory,Crimson
+971,Hot pink,Pea green,Khaki,Ivory,Magenta,Black,Maroon,Purple,Olive,Yellow
+972,Olden,Wheat,Magenta,Khaki,Cyan,Hot pink,Maroon,Pea green,Teal,Aquamarine
+973,Green,Green,Magenta,Lime,Brown,Silver,Olive,Olive,Pea green,Cyan
+974,Blue,White,Blue,Lime,Cyan,Crimson,Lime,Silver,Navy blue,Teal
+975,Red,Maroon,Wheat,Silver,Wheat,Teal,Black,Azure,Red,Olive
+976,Olive,Fuchsia,Plum,Crimson,Crimson,Ivory,Orange,Lime,Teal,Orange
+977,Fuchsia,Navy blue,Plum,Azure,Fuchsia,Khaki,Lime,Silver,Blue,Red
+978,Fuchsia,Green,Red,Wheat,Coral,Silver,Brown,Plum,Olive,Black
+979,Fuchsia,Aquamarine,Purple,Cyan,Fuchsia,Magenta,Wheat,Coral,Ivory,Coral
+980,Lime,Coral,Navy blue,Brown,Pea green,Pea green,Lime,Cyan,Red,Olive
+981,Teal,Blue,Olive,Charcoal,Charcoal,Plum,Khaki,Pea green,Gray,Magenta
+982,Purple,Fuchsia,Silver,Pea green,Coral,Yellow,Gray,Red,Cyan,Fuchsia
+983,Plum,White,Navy blue,Ivory,Maroon,Fuchsia,Olive,Khaki,Gray,Coral
+984,Green,Teal,Magenta,Charcoal,Magenta,Magenta,Pea green,White,Olive,Orange
+985,Azure,Yellow,Silver,Pea green,Maroon,Silver,Pea green,Crimson,Charcoal,Cyan
+986,Cyan,Orange,Plum,Blue,Brown,Red,Khaki,Orange,Black,Plum
+987,Aquamarine,Orange,Maroon,Maroon,Black,Olive,Teal,Navy blue,Azure,Gray
+988,Hot pink,Wheat,Cyan,Charcoal,Hot pink,Plum,Brown,Purple,Yellow,Olden
+989,Ivory,Charcoal,Fuchsia,Ivory,Fuchsia,Azure,Azure,Fuchsia,Wheat,Pea green
+990,Pea green,Purple,Gray,Blue,White,Maroon,Lime,Pea green,Aquamarine,Yellow
+991,Charcoal,Navy blue,Coral,Plum,Coral,Plum,Magenta,Navy blue,Olden,Plum
+992,Pea green,Blue,Wheat,Fuchsia,Charcoal,Aquamarine,Hot pink,White,Black,Blue
+993,Hot pink,Lime,Pea green,Navy blue,Silver,Teal,Fuchsia,Lime,Fuchsia,Yellow
+994,Teal,Red,Ivory,Olive,Magenta,Azure,Magenta,Red,Red,Silver
+995,Aquamarine,Silver,Wheat,Olden,Silver,Teal,Olden,Azure,Brown,Khaki
+996,White,Red,Plum,Red,Wheat,Wheat,Purple,Aquamarine,Black,Red
+997,Olden,Brown,Gray,Gray,Crimson,Olden,Olden,Aquamarine,Crimson,Silver
+998,White,White,Red,Hot pink,Hot pink,Fuchsia,Navy blue,Coral,Silver,Gray
+999,Orange,Orange,Silver,Charcoal,Ivory,Red,Magenta,Aquamarine,Cyan,Plum
+1000,Silver,Coral,Cyan,Black,Coral,Magenta,Maroon,Wheat,Aquamarine,Red
+1001,Maroon,Fuchsia,Azure,Olive,Fuchsia,Fuchsia,Teal,Teal,Gray,Lime
+1002,Olden,Crimson,Crimson,Khaki,Ivory,Silver,Cyan,Gray,Green,Fuchsia
+1003,Khaki,Charcoal,Green,Red,Olden,Silver,Teal,Blue,Olive,Silver
+1004,Maroon,Fuchsia,Fuchsia,Gray,Orange,Crimson,Teal,Lime,White,Orange
+1005,Orange,Fuchsia,Purple,Orange,Green,Orange,Green,Charcoal,White,Navy blue
+1006,Plum,Fuchsia,Ivory,Purple,Hot pink,Plum,Brown,Red,Black,Navy blue
+1007,Olive,Cyan,Green,Red,Cyan,Wheat,Yellow,Gray,Brown,Gray
+1008,Plum,Wheat,Maroon,Charcoal,Aquamarine,Purple,Green,Green,Magenta,Brown
+1009,Yellow,Olden,Cyan,Hot pink,Hot pink,Cyan,Aquamarine,Olive,Silver,Brown
+1010,Navy blue,Orange,Pea green,Cyan,Yellow,Coral,Pea green,Aquamarine,Magenta,Blue
+1011,Plum,Fuchsia,Olden,Plum,Plum,Aquamarine,Brown,Coral,Hot pink,Teal
+1012,Aquamarine,Lime,Magenta,Magenta,Purple,Black,Black,Blue,Cyan,Hot pink
+1013,Khaki,Khaki,Black,Red,Ivory,Charcoal,Crimson,Silver,Olden,Hot pink
+1014,Crimson,Silver,Olive,Crimson,Azure,Hot pink,Crimson,Blue,Gray,Fuchsia
+1015,Hot pink,Orange,Olden,Cyan,Crimson,Khaki,Silver,Coral,Ivory,Green
+1016,Green,Plum,Teal,Green,Aquamarine,Khaki,Pea green,Lime,Plum,Aquamarine
+1017,Teal,Purple,Black,Coral,Magenta,Coral,Gray,Lime,Orange,Khaki
+1018,Blue,Charcoal,Yellow,Crimson,Magenta,Red,Pea green,Olden,Maroon,Magenta
+1019,Olive,Yellow,Green,Blue,Lime,Coral,Green,Black,Charcoal,Brown
+1020,Pea green,Black,Gray,Coral,Purple,Orange,Ivory,Blue,Crimson,Olive
+1021,Coral,Azure,Gray,Coral,Black,Magenta,White,Lime,Aquamarine,Lime
+1022,Aquamarine,Maroon,Ivory,Brown,Navy blue,Black,Cyan,White,Maroon,Red
+1023,Plum,White,Cyan,Crimson,Teal,Black,Navy blue,Purple,Magenta,Khaki
+1024,Aquamarine,Lime,Khaki,Hot pink,Charcoal,Azure,Fuchsia,Purple,Aquamarine,Purple
+1025,Green,Cyan,Green,Aquamarine,Wheat,Olden,Brown,Khaki,Navy blue,Pea green
+1026,Cyan,Brown,Yellow,Green,Gray,Olive,Blue,Gray,Navy blue,Red
+1027,Teal,Olden,Pea green,Cyan,Teal,Teal,Olive,Silver,Olive,Silver
+1028,Plum,Orange,Navy blue,Khaki,Azure,Orange,Aquamarine,Magenta,Teal,Maroon
+1029,Olive,Black,Black,Crimson,Navy blue,Hot pink,Navy blue,Silver,Hot pink,Wheat
+1030,Navy blue,Purple,Olden,Khaki,Azure,Hot pink,Silver,Blue,Azure,Gray
+1031,Aquamarine,Navy blue,Charcoal,Red,Crimson,Gray,Gray,Crimson,Cyan,Silver
+1032,Brown,Pea green,Yellow,Gray,Silver,Green,Azure,Silver,Magenta,White
+1033,Hot pink,Yellow,White,Crimson,Brown,Fuchsia,Gray,Blue,Ivory,Silver
+1034,Aquamarine,Silver,Black,Maroon,Khaki,Yellow,Cyan,Green,Teal,Olive
+1035,Fuchsia,Gray,Aquamarine,Lime,Yellow,Wheat,Wheat,Lime,Hot pink,Yellow
+1036,Green,Olden,Gray,Cyan,Fuchsia,Maroon,Maroon,Blue,Gray,Coral
+1037,Red,White,Khaki,Black,Teal,Maroon,Fuchsia,Charcoal,Maroon,Lime
+1038,Black,Cyan,Gray,Black,Brown,Olden,Olive,Black,Plum,Navy blue
+1039,Fuchsia,Crimson,Navy blue,Olive,Orange,Pea green,Azure,Yellow,Fuchsia,Green
+1040,Blue,Black,Charcoal,Plum,White,Purple,Ivory,Brown,Khaki,Khaki
+1041,Pea green,Charcoal,Gray,Charcoal,Hot pink,Olive,Silver,Black,White,Silver
+1042,Khaki,Yellow,Coral,Coral,Brown,Magenta,Gray,Cyan,Coral,Cyan
+1043,Yellow,Yellow,Brown,Teal,Pea green,Aquamarine,Purple,Silver,Navy blue,Blue
+1044,Pea green,Charcoal,Yellow,Charcoal,Lime,Yellow,Lime,Blue,Olive,Azure
+1045,Green,Silver,Purple,Azure,Red,Olden,Olden,Maroon,Yellow,Black
+1046,Red,Gray,Hot pink,Teal,Navy blue,Gray,Yellow,Orange,Plum,Fuchsia
+1047,Magenta,Maroon,Olive,Yellow,Blue,Navy blue,Blue,Maroon,Azure,Pea green
+1048,Orange,Teal,Azure,Gray,Fuchsia,Black,Pea green,Black,Wheat,Coral
+1049,Olive,Pea green,Hot pink,Maroon,Crimson,Charcoal,Olden,Wheat,Olden,Crimson
+1050,Olden,Blue,Green,Brown,Charcoal,Green,Khaki,Aquamarine,Red,Wheat
+1051,Purple,Blue,Olive,Cyan,Gray,Crimson,Blue,Lime,Silver,Navy blue
+1052,Green,Purple,Blue,Pea green,Coral,Yellow,Azure,Black,Aquamarine,Silver
+1053,Pea green,Khaki,Green,Crimson,Fuchsia,Plum,Lime,Ivory,Charcoal,Cyan
+1054,Maroon,Olden,Ivory,Black,Azure,Black,Orange,Cyan,Pea green,Khaki
+1055,Gray,Wheat,Blue,Coral,Olive,Charcoal,Maroon,Crimson,Purple,Olive
+1056,Charcoal,Ivory,Gray,Fuchsia,Maroon,Magenta,Charcoal,Red,Olive,Purple
+1057,Gray,Hot pink,Ivory,Blue,Purple,Coral,Fuchsia,Olive,Magenta,Charcoal
+1058,Green,Magenta,Navy blue,Charcoal,Silver,Blue,Black,Khaki,Aquamarine,Purple
+1059,Azure,Orange,White,Olive,Coral,Olive,Maroon,Lime,Gray,Wheat
+1060,Plum,Yellow,Plum,Green,Ivory,Lime,Lime,Cyan,Wheat,Lime
+1061,Orange,Crimson,Hot pink,Silver,Crimson,Hot pink,Red,Red,Orange,Fuchsia
+1062,White,Olive,Khaki,Purple,Silver,Olden,Orange,Navy blue,Teal,Ivory
+1063,Teal,Azure,Maroon,Hot pink,Cyan,Yellow,Magenta,Magenta,Pea green,Azure
+1064,Blue,Ivory,Fuchsia,Fuchsia,Plum,Blue,Green,Olden,Ivory,Wheat
+1065,Orange,Olive,Aquamarine,Silver,Maroon,Black,Silver,Black,Olden,Wheat
+1066,Maroon,Cyan,Blue,Crimson,Silver,Brown,Pea green,Ivory,Red,Plum
+1067,Khaki,Teal,Lime,Charcoal,Blue,Pea green,Khaki,Khaki,Brown,Silver
+1068,Magenta,Black,Hot pink,Silver,Magenta,Teal,Silver,Plum,Olden,Ivory
+1069,Pea green,Wheat,Pea green,Gray,Orange,White,Ivory,Teal,Teal,White
+1070,Azure,Khaki,Blue,Lime,White,Crimson,Blue,Olden,Black,Pea green
+1071,Orange,Blue,Hot pink,Hot pink,Ivory,White,Wheat,Crimson,Crimson,Brown
+1072,White,Olden,Maroon,Yellow,Yellow,Plum,Navy blue,Lime,Orange,Gray
+1073,Green,Green,Ivory,Azure,Charcoal,Olive,Olden,Brown,Olden,Cyan
+1074,Hot pink,Pea green,Silver,Crimson,Blue,Charcoal,Blue,Crimson,Coral,Purple
+1075,Lime,Blue,Fuchsia,Navy blue,Hot pink,Olden,Blue,White,Aquamarine,Khaki
+1076,Crimson,Brown,Plum,Aquamarine,Yellow,Plum,Orange,Brown,Hot pink,Ivory
+1077,Silver,Charcoal,Gray,Silver,Yellow,Azure,Yellow,Ivory,Gray,Hot pink
+1078,Navy blue,Olive,Plum,Black,Olive,Lime,Ivory,Green,Navy blue,Silver
+1079,Pea green,Gray,Khaki,Olive,Silver,Magenta,Silver,Olden,Azure,Silver
+1080,Brown,Khaki,Pea green,Cyan,Plum,Green,Cyan,Orange,Silver,Black
+1081,Blue,White,Hot pink,White,Crimson,White,Navy blue,Cyan,Maroon,Wheat
+1082,Fuchsia,Orange,Lime,Red,Crimson,Magenta,Magenta,Maroon,Crimson,Plum
+1083,Ivory,Azure,Silver,Magenta,Coral,Aquamarine,Wheat,Teal,Teal,Olive
+1084,Cyan,Azure,Teal,Wheat,Wheat,Gray,White,Gray,Silver,Teal
+1085,Khaki,White,White,Gray,Cyan,Purple,Purple,Aquamarine,Orange,Black
+1086,Lime,Khaki,Silver,Charcoal,Lime,Purple,Aquamarine,Red,Silver,Wheat
+1087,Ivory,Pea green,Cyan,Aquamarine,Lime,Lime,Lime,Brown,Azure,Orange
+1088,Black,Maroon,Coral,Black,Pea green,Green,Yellow,Black,Green,Wheat
+1089,Yellow,Purple,Magenta,Plum,Olive,Teal,Magenta,Khaki,Plum,Pea green
+1090,Lime,Blue,Olden,Coral,Aquamarine,Teal,Yellow,Navy blue,Plum,Yellow
+1091,Lime,Aquamarine,Olden,Orange,Magenta,Hot pink,Yellow,Brown,Maroon,Pea green
+1092,Teal,Red,Purple,Lime,Olden,Yellow,Teal,Crimson,Black,Fuchsia
+1093,Silver,Brown,Gray,Aquamarine,Green,Cyan,Azure,Green,Maroon,Hot pink
+1094,Yellow,Ivory,Orange,Khaki,Magenta,Wheat,Green,Crimson,Gray,Fuchsia
+1095,Olden,Olden,Pea green,Olive,Green,Gray,Maroon,Fuchsia,Khaki,Navy blue
+1096,Cyan,Red,Khaki,Charcoal,Brown,Magenta,Olden,Purple,Silver,Brown
+1097,Crimson,Azure,Black,Fuchsia,Aquamarine,Maroon,Charcoal,Charcoal,Aquamarine,Orange
+1098,Orange,Olive,Olive,Azure,Silver,Purple,Magenta,Black,Magenta,Charcoal
+1099,Coral,Brown,Red,Blue,Charcoal,Red,White,Green,Magenta,Khaki
+1100,Lime,Aquamarine,Azure,Khaki,Teal,Teal,Red,Azure,Green,Plum
+1101,Green,Azure,Pea green,Crimson,Azure,Gray,Aquamarine,Red,Coral,Black
+1102,Green,Orange,Coral,Hot pink,Red,Navy blue,Brown,Plum,Cyan,Olive
+1103,Charcoal,Charcoal,White,Cyan,Maroon,Brown,Ivory,Magenta,Purple,Cyan
+1104,Purple,Aquamarine,Yellow,Aquamarine,Black,Black,Gray,Magenta,Khaki,Olden
+1105,Yellow,Magenta,Silver,Cyan,Fuchsia,Wheat,Khaki,Olive,Plum,White
+1106,Purple,Ivory,Hot pink,Gray,Magenta,Teal,Brown,Crimson,Charcoal,Gray
+1107,Cyan,Plum,Silver,Orange,Khaki,Navy blue,Pea green,White,Lime,Silver
+1108,Hot pink,Brown,Teal,Khaki,Yellow,Hot pink,Lime,Crimson,Coral,Yellow
+1109,Gray,Crimson,Pea green,Green,Cyan,Blue,Black,Lime,Aquamarine,Lime
+1110,Plum,Azure,Yellow,Pea green,Lime,Olden,Black,Red,Black,Green
+1111,White,Olden,Silver,Navy blue,Plum,Olive,Wheat,Fuchsia,Gray,Black
+1112,Wheat,Navy blue,Maroon,Aquamarine,Maroon,Olden,Gray,Khaki,Azure,Navy blue
+1113,Plum,Charcoal,Gray,Black,Navy blue,White,Gray,Yellow,Purple,Blue
+1114,Silver,Azure,Navy blue,Ivory,Orange,Wheat,Crimson,Maroon,Khaki,Cyan
+1115,Magenta,Aquamarine,Teal,Magenta,Ivory,Charcoal,Khaki,Yellow,Cyan,Brown
+1116,Crimson,Hot pink,Azure,Khaki,Charcoal,Olive,Blue,Red,Plum,Brown
+1117,Olden,Plum,Pea green,Gray,Gray,Olive,Pea green,Magenta,Aquamarine,Charcoal
+1118,Olive,Aquamarine,Silver,Yellow,Red,Navy blue,Crimson,Cyan,Hot pink,Magenta
+1119,Green,Azure,Red,Pea green,Orange,Olden,Olive,Olive,Pea green,Red
+1120,Brown,Orange,Teal,Yellow,Gray,Ivory,Orange,Cyan,Yellow,Gray
+1121,Maroon,Black,Cyan,Hot pink,Crimson,Ivory,Teal,Crimson,Maroon,Hot pink
+1122,Pea green,Magenta,Hot pink,Azure,Fuchsia,Coral,Fuchsia,Azure,Teal,Coral
+1123,Brown,Coral,Cyan,Charcoal,Magenta,Aquamarine,White,Wheat,Plum,Plum
+1124,Lime,White,Gray,Pea green,Olive,Silver,White,Coral,Purple,Orange
+1125,White,Red,Yellow,Wheat,Coral,Maroon,Maroon,Charcoal,Green,Yellow
+1126,Brown,Aquamarine,Crimson,Aquamarine,Cyan,Green,Teal,Olive,Hot pink,Plum
+1127,Crimson,Charcoal,Green,Plum,Navy blue,Brown,Plum,Cyan,Maroon,Aquamarine
+1128,Fuchsia,Lime,Cyan,Plum,Orange,Navy blue,Hot pink,Azure,Red,Magenta
+1129,White,Olive,Fuchsia,Olden,Cyan,Crimson,Ivory,Charcoal,Purple,Silver
+1130,Red,Aquamarine,Wheat,Olden,Teal,Lime,Crimson,Navy blue,Khaki,Magenta
+1131,Charcoal,Coral,Magenta,Lime,Aquamarine,Olive,Wheat,Black,Plum,Orange
+1132,Maroon,Navy blue,White,Olden,Crimson,Black,Maroon,Green,Teal,Olden
+1133,Olive,White,Hot pink,Wheat,Green,Wheat,Lime,Magenta,Cyan,Cyan
+1134,Fuchsia,Gray,Green,Blue,Maroon,Red,Blue,Aquamarine,Green,Silver
+1135,Yellow,Purple,Coral,Ivory,Navy blue,Coral,Black,Black,Magenta,Khaki
+1136,Khaki,Purple,Brown,Azure,Blue,Olive,Blue,White,Green,Lime
+1137,Silver,Teal,Black,Brown,Khaki,White,Green,Orange,Green,Khaki
+1138,Lime,Hot pink,White,Lime,Charcoal,Orange,Green,White,Wheat,Azure
+1139,Fuchsia,Pea green,Coral,Green,Pea green,Purple,Brown,Silver,Teal,Teal
+1140,Magenta,Gray,Brown,Lime,Olive,Charcoal,Khaki,Gray,Teal,Purple
+1141,Ivory,Cyan,Cyan,Brown,Wheat,Silver,Coral,Black,Khaki,Lime
+1142,Charcoal,Wheat,Coral,Aquamarine,Wheat,Navy blue,Red,Black,Wheat,Wheat
+1143,Red,Yellow,Plum,Maroon,Black,White,Blue,Yellow,Cyan,Hot pink
+1144,Azure,Aquamarine,Maroon,Pea green,Green,Brown,White,Teal,Red,Red
+1145,Olive,Aquamarine,Fuchsia,Fuchsia,Red,Teal,Hot pink,Orange,Crimson,Pea green
+1146,Purple,Hot pink,Gray,Maroon,Hot pink,Fuchsia,Crimson,Cyan,Plum,Navy blue
+1147,Silver,Lime,Ivory,Cyan,Charcoal,Gray,Blue,Cyan,Plum,Maroon
+1148,Maroon,Olden,Pea green,Ivory,Khaki,Cyan,Maroon,Wheat,Crimson,Silver
+1149,Black,Fuchsia,Maroon,Coral,Olive,Charcoal,Teal,Silver,Navy blue,Fuchsia
+1150,Red,Magenta,Navy blue,White,Hot pink,Olive,Maroon,Teal,Aquamarine,Wheat
+1151,Olive,Teal,Olden,Blue,Navy blue,Wheat,Green,Yellow,Charcoal,Red
+1152,Fuchsia,Pea green,Coral,Crimson,Aquamarine,Khaki,Lime,Green,Wheat,Plum
+1153,Hot pink,Azure,Fuchsia,Hot pink,Yellow,Purple,Olive,Yellow,Orange,White
+1154,Purple,Maroon,Olive,Pea green,Navy blue,Blue,Cyan,Maroon,Charcoal,Navy blue
+1155,Navy blue,White,Charcoal,Navy blue,Olden,Coral,Coral,Coral,Crimson,Yellow
+1156,Pea green,Magenta,Magenta,Maroon,Silver,Blue,Crimson,Black,Coral,Maroon
+1157,Olden,Olive,Navy blue,Teal,White,Ivory,Teal,Blue,White,Cyan
+1158,Yellow,Blue,Teal,Orange,Lime,Black,Charcoal,Olden,Crimson,Khaki
+1159,White,Cyan,Brown,White,Brown,Orange,Pea green,Yellow,Olive,Coral
+1160,Orange,Orange,Coral,Azure,Hot pink,Teal,Maroon,Aquamarine,Brown,Coral
+1161,Gray,Teal,Yellow,Purple,Crimson,Lime,Pea green,Coral,Coral,Fuchsia
+1162,Orange,Magenta,Orange,Ivory,Purple,Cyan,Crimson,Pea green,Brown,Khaki
+1163,Maroon,Green,Olden,Orange,Green,Wheat,Aquamarine,White,Coral,Olden
+1164,Purple,Khaki,Silver,Yellow,Pea green,Crimson,Orange,Coral,Wheat,Hot pink
+1165,Blue,Navy blue,Wheat,Red,Red,Khaki,Charcoal,Red,Wheat,Hot pink
+1166,Orange,Lime,Purple,Blue,Black,Charcoal,Khaki,Navy blue,Cyan,Hot pink
+1167,Plum,Maroon,Magenta,Pea green,Orange,Yellow,Orange,Lime,Pea green,Yellow
+1168,Navy blue,Blue,Azure,Teal,Maroon,Crimson,Brown,Orange,Maroon,Hot pink
+1169,Ivory,Red,Pea green,Blue,Olden,Orange,Gray,Silver,Wheat,Purple
+1170,Khaki,Lime,Teal,Pea green,Fuchsia,Khaki,Yellow,Olden,Coral,Crimson
+1171,Blue,White,Fuchsia,Khaki,Wheat,Green,Olden,Black,Maroon,Aquamarine
+1172,Azure,Ivory,Red,Olden,Wheat,White,Brown,Charcoal,Maroon,Silver
+1173,Orange,Orange,Black,Charcoal,Olden,Green,Green,Maroon,Navy blue,Purple
+1174,Silver,Yellow,Lime,Coral,Olden,Red,Lime,Hot pink,Teal,Olden
+1175,Crimson,Coral,Lime,Black,Maroon,Ivory,Charcoal,Magenta,Green,Brown
+1176,Fuchsia,Magenta,Ivory,Ivory,Olive,Plum,White,Charcoal,Ivory,Olive
+1177,Red,White,Crimson,Olden,Cyan,Hot pink,Gray,Coral,Yellow,Magenta
+1178,Olive,Hot pink,White,Cyan,Khaki,Yellow,Brown,Plum,Gray,Silver
+1179,Gray,Teal,Brown,Crimson,Plum,Coral,Black,Crimson,Fuchsia,Lime
+1180,Silver,Silver,Azure,Crimson,Magenta,Orange,Charcoal,Orange,Aquamarine,Red
+1181,Khaki,Gray,Pea green,Hot pink,Orange,Orange,Fuchsia,Cyan,Fuchsia,Ivory
+1182,Charcoal,Aquamarine,Black,Red,Khaki,Cyan,Black,Blue,Cyan,Plum
+1183,Coral,Pea green,Navy blue,Charcoal,Lime,Red,Crimson,Ivory,Maroon,Yellow
+1184,Aquamarine,Maroon,Aquamarine,Olden,Pea green,Azure,Black,Purple,Olden,Brown
+1185,Teal,Plum,Olden,Black,Charcoal,Orange,Pea green,Orange,Black,Gray
+1186,Pea green,Olden,Khaki,Azure,Black,Olive,Magenta,Hot pink,Yellow,Cyan
+1187,Wheat,Lime,Olive,Red,Gray,Wheat,Brown,Lime,Lime,Black
+1188,Ivory,Yellow,Green,Fuchsia,Gray,Orange,Aquamarine,Black,Yellow,Charcoal
+1189,Aquamarine,Cyan,Wheat,Olive,Teal,Gray,Lime,Aquamarine,Yellow,Magenta
+1190,Red,Maroon,Charcoal,Maroon,Navy blue,Lime,Olive,Wheat,Coral,Magenta
+1191,Plum,Khaki,Black,Ivory,Navy blue,Plum,Pea green,Red,Ivory,Silver
+1192,Khaki,Hot pink,Azure,Silver,Yellow,Cyan,Blue,Magenta,Red,Orange
+1193,Silver,Olden,Olive,Aquamarine,Olden,Yellow,Red,Azure,Wheat,Navy blue
+1194,Navy blue,Red,Black,Coral,Navy blue,Hot pink,Gray,Azure,Fuchsia,Charcoal
+1195,Azure,Teal,Magenta,Gray,Red,Teal,Red,Charcoal,Hot pink,Red
+1196,Orange,Azure,Wheat,Navy blue,Wheat,Fuchsia,Black,Aquamarine,Green,Khaki
+1197,Aquamarine,Coral,Silver,Gray,Plum,Ivory,Yellow,Khaki,Red,Fuchsia
+1198,Orange,Crimson,Green,Plum,Wheat,Wheat,Khaki,Olive,Green,Red
+1199,Lime,Brown,Magenta,Lime,Plum,Charcoal,Aquamarine,Yellow,Gray,Teal
+1200,Khaki,Olden,Coral,Olive,Hot pink,Orange,Fuchsia,Black,White,Fuchsia
+1201,Khaki,Blue,Black,Plum,Olden,Teal,Maroon,Hot pink,Brown,Orange
+1202,Teal,Navy blue,White,Purple,Khaki,Brown,Green,Red,Wheat,Olden
+1203,Maroon,Coral,Aquamarine,Teal,Lime,Silver,White,Khaki,Teal,Navy blue
+1204,Khaki,Maroon,Crimson,Red,Maroon,Ivory,Blue,Plum,Green,Hot pink
+1205,Coral,Hot pink,Pea green,Crimson,Olive,Wheat,Olden,Khaki,Aquamarine,Olden
+1206,Wheat,Khaki,Charcoal,Aquamarine,Aquamarine,Green,Green,Azure,Blue,Aquamarine
+1207,Cyan,White,Coral,Wheat,Navy blue,Maroon,Azure,Ivory,Pea green,Olive
+1208,Maroon,Wheat,Cyan,Brown,Black,Orange,Coral,Silver,Brown,Charcoal
+1209,Orange,Ivory,Maroon,Khaki,Fuchsia,Gray,Charcoal,Olive,Olive,Wheat
+1210,Brown,Olden,Maroon,Plum,Magenta,Purple,Cyan,Ivory,Aquamarine,Teal
+1211,Black,Hot pink,Silver,Yellow,Gray,Wheat,Gray,Cyan,Wheat,Crimson
+1212,Magenta,Fuchsia,White,Teal,Azure,Lime,Silver,Magenta,Pea green,White
+1213,Aquamarine,Black,Wheat,Lime,Silver,Ivory,Crimson,Cyan,Khaki,Magenta
+1214,Aquamarine,Green,Maroon,Teal,Magenta,Ivory,Black,Yellow,Teal,Brown
+1215,Teal,Magenta,Olden,Brown,Black,Silver,Green,Crimson,Aquamarine,Hot pink
+1216,Ivory,Maroon,Wheat,Maroon,Azure,Purple,Green,Magenta,Wheat,Azure
+1217,Red,Gray,Plum,Lime,Maroon,Silver,Red,Fuchsia,Wheat,Purple
+1218,Aquamarine,Magenta,Olive,Blue,Olive,Fuchsia,White,Gray,Pea green,Magenta
+1219,Green,Khaki,Coral,Silver,Olive,Black,Fuchsia,Green,Magenta,Olive
+1220,Orange,White,Black,White,Brown,Wheat,Magenta,Cyan,Purple,Red
+1221,Ivory,Green,Orange,Ivory,Ivory,Maroon,Cyan,Teal,Olive,Wheat
+1222,Magenta,Blue,Crimson,Crimson,Orange,Navy blue,Silver,Blue,Yellow,Aquamarine
+1223,Cyan,Hot pink,Green,Pea green,Charcoal,Green,White,Maroon,Azure,Pea green
+1224,Aquamarine,Lime,Orange,Black,Fuchsia,Maroon,Gray,Orange,Blue,Orange
+1225,Purple,Olive,Cyan,Yellow,Orange,Plum,Navy blue,Ivory,Charcoal,Crimson
+1226,Gray,Plum,Olive,Navy blue,Cyan,Maroon,Crimson,Fuchsia,Blue,Hot pink
+1227,Olden,Lime,Purple,Plum,Hot pink,Orange,Plum,Green,Yellow,Fuchsia
+1228,Blue,Coral,Plum,Crimson,Silver,Wheat,Navy blue,Gray,Brown,Crimson
+1229,Ivory,Yellow,Magenta,Crimson,Black,Crimson,Silver,Aquamarine,Black,Silver
+1230,Wheat,Pea green,Green,Plum,Maroon,White,Orange,Ivory,Hot pink,Pea green
+1231,Olive,Ivory,Yellow,Maroon,White,Wheat,Plum,White,Silver,Ivory
+1232,Black,Hot pink,Coral,Blue,Olive,Olden,Maroon,Green,Crimson,Coral
+1233,Magenta,Magenta,Brown,Olden,Red,Teal,Plum,Azure,Wheat,Aquamarine
+1234,Crimson,Red,Hot pink,Olden,Gray,Olive,Teal,Teal,Maroon,Orange
+1235,Charcoal,Silver,Red,Olden,Ivory,Olden,Hot pink,Purple,Red,Yellow
+1236,Cyan,Pea green,Olden,Silver,Navy blue,Wheat,Brown,Green,Crimson,Green
+1237,Ivory,Silver,Brown,Pea green,Gray,Brown,Wheat,Cyan,Magenta,Silver
+1238,Red,Olden,Ivory,Orange,Plum,Lime,Silver,Fuchsia,Magenta,Orange
+1239,Aquamarine,Coral,Purple,Maroon,Brown,Gray,Magenta,Coral,Khaki,Maroon
+1240,Magenta,Navy blue,Silver,Azure,Blue,Yellow,Khaki,Blue,Aquamarine,Teal
+1241,Wheat,Navy blue,Khaki,Yellow,Black,Azure,Khaki,Cyan,Olive,Green
+1242,Ivory,Teal,Ivory,Cyan,Maroon,Azure,Wheat,Khaki,Ivory,Pea green
+1243,Gray,Magenta,Fuchsia,Khaki,Blue,Cyan,Azure,Fuchsia,Fuchsia,Coral
+1244,Olden,Wheat,Teal,Hot pink,Orange,Maroon,Olive,Maroon,Red,White
+1245,Lime,Orange,Azure,Red,Navy blue,Fuchsia,Plum,Lime,Pea green,Azure
+1246,Brown,Gray,Black,Khaki,Yellow,Red,Cyan,Yellow,Azure,Aquamarine
+1247,Orange,Black,Azure,Maroon,Pea green,Silver,Olden,Wheat,Purple,White
+1248,Crimson,Charcoal,Red,Crimson,Olden,Silver,Teal,Khaki,Silver,Wheat
+1249,Navy blue,Maroon,Pea green,Black,Cyan,Lime,Purple,Black,Aquamarine,Crimson
+1250,Khaki,Ivory,Wheat,Cyan,Khaki,Silver,Magenta,Gray,Green,Magenta
+1251,Fuchsia,Olden,Fuchsia,Crimson,Maroon,Brown,Purple,Silver,Silver,Purple
+1252,Orange,Gray,Silver,Purple,Cyan,Cyan,White,Navy blue,Ivory,Yellow
+1253,Aquamarine,Olive,Wheat,Green,Purple,Silver,Gray,Gray,Gray,Purple
+1254,Olden,Crimson,Hot pink,Coral,Cyan,Plum,Green,Khaki,Crimson,Crimson
+1255,Charcoal,Fuchsia,Purple,Red,Coral,Yellow,Hot pink,White,Wheat,Hot pink
+1256,Ivory,Olden,Charcoal,Charcoal,Hot pink,Hot pink,Aquamarine,Pea green,Brown,Black
+1257,Cyan,Coral,Fuchsia,Olive,Lime,Yellow,Black,Red,Hot pink,Green
+1258,Lime,Charcoal,Navy blue,Aquamarine,Purple,Yellow,Ivory,Aquamarine,Hot pink,Brown
+1259,Plum,Azure,Navy blue,Hot pink,Black,Cyan,Aquamarine,Coral,Orange,Charcoal
+1260,Khaki,Olive,Purple,Red,Yellow,Yellow,Yellow,Teal,Khaki,White
+1261,Green,Lime,Charcoal,Plum,Cyan,Orange,Pea green,Olden,Crimson,Ivory
+1262,Green,Pea green,Pea green,Blue,Aquamarine,Ivory,Yellow,Azure,Yellow,Silver
+1263,Lime,Red,White,Cyan,Yellow,Black,Aquamarine,Purple,Olden,Fuchsia
+1264,Black,Khaki,Fuchsia,Silver,Red,Black,Wheat,Olden,Purple,Olive
+1265,Maroon,Plum,Orange,Blue,Red,Silver,Teal,Yellow,Hot pink,Aquamarine
+1266,Orange,Pea green,Charcoal,Maroon,Plum,Cyan,Purple,Yellow,Olden,Black
+1267,Red,Ivory,Cyan,Maroon,Wheat,Navy blue,Yellow,Orange,Magenta,Azure
+1268,Olden,Blue,Khaki,Maroon,Blue,Green,Plum,Navy blue,Pea green,Gray
+1269,Crimson,Maroon,Silver,Orange,Wheat,Red,Coral,Green,Olive,Pea green
+1270,Brown,Wheat,Azure,Silver,Silver,Maroon,Azure,Azure,Green,Yellow
+1271,Aquamarine,Magenta,Purple,Navy blue,Olden,Wheat,Brown,Green,Maroon,Aquamarine
+1272,Orange,Azure,Hot pink,Cyan,Wheat,Navy blue,Teal,Brown,Blue,Magenta
+1273,Lime,Silver,Aquamarine,Brown,Brown,Orange,Ivory,Wheat,Brown,Blue
+1274,Purple,Pea green,Aquamarine,Azure,Maroon,Green,White,Gray,Azure,Silver
+1275,Hot pink,Orange,Blue,Hot pink,Pea green,Fuchsia,Aquamarine,Gray,Maroon,Coral
+1276,Olive,Navy blue,Yellow,Ivory,Ivory,Teal,Green,Plum,Ivory,Red
+1277,Gray,Teal,White,Olive,Green,Olive,Yellow,Silver,Charcoal,Blue
+1278,Orange,Purple,Coral,Black,Fuchsia,Azure,Gray,Olden,White,Maroon
+1279,Aquamarine,Teal,Azure,Crimson,Black,Teal,Yellow,Aquamarine,Fuchsia,Olden
+1280,Cyan,Blue,Orange,Blue,Crimson,Olden,Magenta,Charcoal,Aquamarine,Olive
+1281,Navy blue,Hot pink,Aquamarine,Coral,Teal,Coral,Cyan,Coral,Maroon,Maroon
+1282,Maroon,Plum,Green,Orange,Olden,Ivory,Teal,Crimson,Gray,Cyan
+1283,Ivory,Gray,Purple,Purple,Olden,Red,Charcoal,Red,Fuchsia,Red
+1284,Navy blue,Red,Khaki,Magenta,Coral,Fuchsia,Ivory,Plum,Crimson,Olden
+1285,Fuchsia,Wheat,Khaki,Azure,Maroon,Teal,Red,Brown,Fuchsia,Aquamarine
+1286,Charcoal,Aquamarine,Gray,Red,Yellow,Hot pink,Lime,Magenta,Yellow,Teal
+1287,Coral,Plum,Wheat,Navy blue,Teal,Fuchsia,Plum,Gray,Olive,Green
+1288,Olden,Navy blue,Coral,Magenta,Wheat,Green,Purple,Coral,Coral,Blue
+1289,Purple,Plum,Purple,Aquamarine,Orange,Maroon,Gray,White,Gray,Khaki
+1290,Olive,Purple,Hot pink,Olive,Ivory,Yellow,Red,Khaki,White,Hot pink
+1291,Green,Gray,Lime,Green,Navy blue,Red,Hot pink,Azure,Black,Black
+1292,Brown,Gray,Purple,Silver,Ivory,Charcoal,Gray,Charcoal,Plum,Olive
+1293,Olive,Ivory,Olden,Crimson,Aquamarine,Olden,Plum,Ivory,Crimson,Pea green
+1294,Purple,Lime,Green,Yellow,Cyan,Silver,Navy blue,Hot pink,Blue,Lime
+1295,Navy blue,Coral,Silver,Orange,Black,Khaki,Wheat,Navy blue,Maroon,Pea green
+1296,Charcoal,Blue,Crimson,Teal,Cyan,Maroon,Navy blue,Aquamarine,Orange,Olive
+1297,Brown,Green,Teal,Charcoal,Olive,Hot pink,Yellow,Pea green,Azure,Charcoal
+1298,Black,Navy blue,Olden,Orange,Orange,Lime,Coral,Charcoal,Olive,Purple
+1299,Silver,Orange,Yellow,Charcoal,Khaki,Blue,Pea green,Yellow,Silver,Blue
+1300,Orange,Maroon,Lime,Purple,Black,Aquamarine,Green,Crimson,Lime,Coral
+1301,White,Silver,Pea green,Cyan,Azure,Plum,Ivory,Yellow,Fuchsia,Crimson
+1302,Navy blue,Azure,Coral,Olden,Coral,Blue,Olden,Purple,Plum,Azure
+1303,Lime,Orange,Black,Fuchsia,Aquamarine,Cyan,Khaki,Brown,Navy blue,Brown
+1304,Ivory,Pea green,Blue,Olden,Plum,White,Coral,Maroon,Charcoal,Green
+1305,Charcoal,Crimson,Fuchsia,Teal,Lime,Brown,Blue,Green,Magenta,White
+1306,Khaki,Black,Pea green,Cyan,Pea green,Lime,Lime,Coral,Hot pink,Green
+1307,Plum,Lime,Yellow,Orange,Hot pink,Brown,Silver,Hot pink,Navy blue,Azure
+1308,Crimson,Gray,Fuchsia,Navy blue,Plum,Aquamarine,Navy blue,Black,Coral,Olden
+1309,Yellow,Blue,Olive,Navy blue,Azure,Olive,Fuchsia,Green,Red,White
+1310,Azure,Wheat,Black,Aquamarine,Orange,Navy blue,Brown,Aquamarine,Yellow,Pea green
+1311,Navy blue,Red,Azure,Pea green,Purple,Brown,Blue,Wheat,Olden,Magenta
+1312,Teal,Orange,Olden,Lime,Brown,Teal,Khaki,Fuchsia,Green,Silver
+1313,Magenta,Brown,Teal,White,Green,Wheat,Olden,Aquamarine,Khaki,Charcoal
+1314,Charcoal,Gray,Gray,Azure,Blue,Pea green,Black,Ivory,Gray,Orange
+1315,Cyan,Silver,Wheat,Navy blue,Navy blue,Olden,Fuchsia,Purple,Olden,Charcoal
+1316,Hot pink,Pea green,Navy blue,Wheat,Coral,Charcoal,Gray,Wheat,Charcoal,Orange
+1317,Olive,Coral,Olden,Navy blue,Red,White,Maroon,Blue,Blue,White
+1318,Yellow,Purple,Aquamarine,Olive,Azure,Purple,Coral,Crimson,Red,Fuchsia
+1319,Purple,Olive,Lime,Red,Red,Silver,Navy blue,Khaki,Hot pink,Pea green
+1320,Magenta,Green,Coral,Wheat,Navy blue,Wheat,Yellow,Brown,Blue,Olden
+1321,Coral,Green,Brown,Olive,White,Wheat,Orange,Cyan,Lime,Magenta
+1322,Maroon,Orange,Navy blue,Brown,Red,Magenta,Red,Fuchsia,Green,Olden
+1323,Wheat,Yellow,Fuchsia,Black,Cyan,Brown,Magenta,Green,Fuchsia,Red
+1324,Pea green,Silver,Orange,Pea green,Aquamarine,Coral,Pea green,Orange,Khaki,Hot pink
+1325,Aquamarine,Cyan,Pea green,Green,Olive,Yellow,Aquamarine,Orange,Yellow,Magenta
+1326,Wheat,Teal,Lime,Navy blue,Wheat,Purple,Ivory,Olive,Brown,Brown
+1327,Olden,Fuchsia,Red,Coral,Khaki,Yellow,Crimson,Ivory,Orange,Crimson
+1328,Maroon,Crimson,Aquamarine,Gray,Pea green,Ivory,Gray,Navy blue,Coral,Cyan
+1329,Purple,Red,Silver,Ivory,Ivory,Brown,Hot pink,Olden,Olden,Azure
+1330,Olive,Teal,Silver,Navy blue,Gray,Green,Crimson,Coral,Olden,Hot pink
+1331,Plum,Black,Azure,Pea green,Teal,Coral,Hot pink,Magenta,Teal,Lime
+1332,Fuchsia,White,Gray,Silver,Crimson,Charcoal,Yellow,Maroon,Olive,Magenta
+1333,Orange,Charcoal,Hot pink,Green,Ivory,Fuchsia,Red,Plum,Coral,Yellow
+1334,Charcoal,Teal,Gray,Khaki,Black,Blue,Fuchsia,Red,Azure,Brown
+1335,Fuchsia,Silver,Aquamarine,Teal,Orange,Lime,Khaki,Khaki,Orange,Black
+1336,Coral,Black,Lime,Plum,Azure,Magenta,Aquamarine,Pea green,Wheat,Coral
+1337,White,Black,Ivory,Red,Charcoal,Wheat,Olive,Crimson,Magenta,Plum
+1338,Coral,Olden,Cyan,Crimson,Purple,Orange,Orange,Hot pink,Blue,Olden
+1339,Aquamarine,Plum,Orange,Charcoal,Cyan,Olive,Charcoal,Teal,Red,Teal
+1340,Black,Hot pink,Lime,Pea green,Brown,Aquamarine,Fuchsia,Charcoal,Plum,Yellow
+1341,Crimson,Magenta,Black,Olive,Olden,Pea green,Azure,Blue,Cyan,Lime
+1342,Maroon,Pea green,Lime,Cyan,Navy blue,Ivory,Plum,Black,Green,Black
+1343,Crimson,Orange,Coral,Teal,Brown,Wheat,White,Pea green,Maroon,Lime
+1344,Aquamarine,Purple,Hot pink,Orange,Purple,Crimson,Teal,Green,Green,Coral
+1345,Lime,Maroon,Wheat,Magenta,Coral,Olive,Cyan,Maroon,Black,Olive
+1346,Yellow,Azure,Plum,Ivory,Charcoal,Olive,Orange,Fuchsia,Gray,Navy blue
+1347,Wheat,Hot pink,Orange,White,Coral,Purple,Gray,Silver,Green,Brown
+1348,Blue,White,Brown,Azure,Hot pink,Navy blue,Olive,Charcoal,Cyan,Blue
+1349,Brown,Navy blue,Red,Green,Maroon,Green,Aquamarine,Crimson,Gray,Silver
+1350,Khaki,Red,Black,Azure,Pea green,Red,Olden,Wheat,Fuchsia,White
+1351,Green,Wheat,Blue,White,Blue,Coral,Orange,Red,Plum,Wheat
+1352,Crimson,Navy blue,White,Fuchsia,Purple,Aquamarine,Khaki,White,Orange,Crimson
+1353,Cyan,Olive,Hot pink,Cyan,Blue,Purple,Lime,Coral,Maroon,Green
+1354,Maroon,Coral,Yellow,Navy blue,Magenta,Wheat,Crimson,Maroon,Plum,Brown
+1355,Olive,Fuchsia,White,Pea green,Lime,Blue,Olden,Orange,Lime,White
+1356,Gray,Ivory,Green,Olive,Magenta,Red,Brown,Ivory,Olive,Wheat
+1357,Gray,Aquamarine,Gray,Wheat,Ivory,Maroon,Aquamarine,Lime,Blue,Gray
+1358,Coral,Blue,Aquamarine,Maroon,Maroon,Silver,White,Hot pink,Crimson,Gray
+1359,Aquamarine,Teal,Magenta,Green,Black,Yellow,Pea green,Navy blue,Khaki,Ivory
+1360,Wheat,Green,Silver,Cyan,Olden,Crimson,Wheat,Purple,Fuchsia,Charcoal
+1361,Green,Hot pink,Gray,Wheat,White,Silver,Green,Black,Crimson,Ivory
+1362,Ivory,Olden,Plum,Aquamarine,Khaki,Silver,Maroon,Fuchsia,Blue,Khaki
+1363,Orange,Brown,Cyan,Aquamarine,Cyan,Blue,Lime,Coral,Charcoal,Plum
+1364,White,Charcoal,Coral,Cyan,Fuchsia,Green,Charcoal,Charcoal,Pea green,Yellow
+1365,Crimson,Teal,Olive,Cyan,Yellow,White,Gray,Plum,Yellow,Blue
+1366,Navy blue,Pea green,Charcoal,Olden,White,Silver,Hot pink,Black,Azure,Azure
+1367,Cyan,Pea green,Maroon,Black,Yellow,Orange,Maroon,Black,Teal,Purple
+1368,Orange,Khaki,Khaki,Ivory,Plum,Khaki,Maroon,Navy blue,Teal,Navy blue
+1369,Purple,Silver,Maroon,Teal,Aquamarine,Navy blue,Magenta,Yellow,Black,Pea green
+1370,Purple,Pea green,Cyan,Olive,Khaki,Hot pink,Gray,White,Coral,Azure
+1371,Fuchsia,Purple,Aquamarine,Aquamarine,Magenta,Purple,Hot pink,Aquamarine,Olden,Yellow
+1372,Green,Charcoal,Green,Yellow,Khaki,Maroon,Orange,Magenta,Magenta,Teal
+1373,Plum,Olden,Wheat,Maroon,Plum,Red,Green,Silver,Olive,Maroon
+1374,Wheat,Maroon,Teal,Blue,Azure,Orange,Pea green,Red,Pea green,Purple
+1375,Magenta,Pea green,Magenta,Plum,Pea green,Lime,Gray,Cyan,Blue,Plum
+1376,Black,Blue,Gray,Olden,Yellow,Coral,Green,Yellow,Olive,Brown
+1377,Aquamarine,White,Blue,Maroon,Olden,Lime,Maroon,White,Green,Lime
+1378,Olden,Olive,Fuchsia,Maroon,Blue,Orange,Hot pink,Black,Fuchsia,Green
+1379,Teal,Silver,Ivory,Charcoal,Coral,Red,White,Coral,Black,Blue
+1380,Orange,Red,Red,Olden,Navy blue,Lime,Azure,Olden,Olden,Aquamarine
+1381,Plum,Black,Yellow,Brown,Charcoal,Maroon,Khaki,Silver,Red,Aquamarine
+1382,Charcoal,Gray,Magenta,Orange,Black,Teal,Silver,Cyan,Pea green,Coral
+1383,Teal,White,Plum,Silver,Pea green,Teal,Ivory,Lime,Maroon,Red
+1384,Navy blue,Lime,Maroon,White,Yellow,Teal,Maroon,Lime,Red,Yellow
+1385,Silver,Blue,Lime,Fuchsia,Charcoal,Purple,Maroon,Blue,Teal,Plum
+1386,Teal,Charcoal,Navy blue,Olive,Purple,Silver,Olden,Coral,Charcoal,Red
+1387,Gray,Lime,Gray,Gray,Plum,Lime,Coral,Orange,Green,Olden
+1388,Orange,Aquamarine,Yellow,Yellow,Olive,Khaki,Olden,Blue,Azure,Aquamarine
+1389,Lime,Cyan,Wheat,Lime,Coral,Azure,White,Navy blue,Gray,Azure
+1390,Wheat,Aquamarine,Blue,Hot pink,Pea green,Yellow,Hot pink,Blue,Red,Hot pink
+1391,Silver,Plum,Ivory,Purple,Yellow,Brown,Silver,Navy blue,Orange,Orange
+1392,Maroon,Olden,Olive,Olive,Khaki,Hot pink,Aquamarine,Plum,Black,Olden
+1393,Charcoal,Maroon,Blue,Crimson,Charcoal,Maroon,Olden,Olden,Cyan,Olden
+1394,Khaki,Teal,Orange,Lime,Gray,Maroon,Ivory,Gray,Hot pink,Hot pink
+1395,Olive,Olive,White,Navy blue,Olive,Azure,Wheat,Aquamarine,Lime,Khaki
+1396,White,Plum,White,Coral,Aquamarine,Brown,Cyan,Black,Green,Plum
+1397,Olive,Green,Orange,Navy blue,Fuchsia,Orange,Maroon,Red,Brown,Hot pink
+1398,Cyan,Coral,Brown,Charcoal,Brown,Red,Plum,Crimson,Magenta,Brown
+1399,Purple,Gray,Coral,Ivory,Teal,Azure,Coral,Blue,Lime,Khaki

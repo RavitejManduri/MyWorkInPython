@@ -1,0 +1,10 @@
+543, John Smith, 301-304-4044,3.3
+325, Nancy Thomas, 240-340-3444, 3.95
+245, Liam Jackson, 367-345-2333, 3.12
+345, Noah pinkman, 432-576-8900, 2.78
+546, George williams, 234-543-3245, 2.54
+768, Paul Logan, 987-453-6755, 3.2
+467, Benjamin Franklin, 758-352-6700, 2.88
+298, George Mason, 543-341-2311, 2.41
+809, Elijah, 543-672-6853, 1.79
+316, Micheal Jordan, 345-234-4511, 3.72

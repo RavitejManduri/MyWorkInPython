@@ -1,0 +1,20 @@
+Data Link:
+https://data.world/datafiniti/fast-food-restaurants-across-america/workspace/file?filename=Datafiniti_Fast_Food_Restaurants.csv
+https://data.world/us-hhs-gov/8e0ede43-eaa4-4a93-9f30-fb36b8245685/workspace/file?filename=csv-1.csv
+
+DATA DISCOVERY:
+By searching the required domains i.e keywords restaurants, obesity in data world website I came across these datasets
+DATA is free to download, Getting and using data doesn't violate terms of service. Documented EDA is not available for the data.But we should login with any gmail to get the data
+
+Size of Data:
+33 columns, 53,392 rows in table
+16 columns, 10,000 rows in table
+Context:
+The data1 is about the percentage of obesity in each state in usa.
+The data2 is about the restaurants in all state in usa.
+
+Hypothesis:
+1.higher the population higher the number of restaurants in a state.
+2.Higher the number of restaurants in a state higher the average obesity value of the state.
+
+

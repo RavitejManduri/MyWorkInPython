@@ -1,0 +1,31 @@
+[^5] need to match a ‘[’ or ‘\’, you can precede them with a backslash to remove their special meaning: \[ or \\.
+\d Matches any decimal digit; this is equivalent to the class [0-9].
+\D Matches any non-digit character; this is equivalent to the class [^0-9].
+\s Matches any whitespace character; this is equivalent to the class[ \t\n\r\f\v]c.
+\S Matches any non-whitespace character; this is equivalent to the class [^ \t\n\r\f\v].
+\w Matches any alphanumeric character; this is equivalent to the class [a-zA-Z0-9 ]c.
+\W Matches any non-alphanumeric character; this is equivalent to the class [^a-zA-Z0-9].
+‘.’ is often used where you want to match “any character”.
+‘*’; it specifies that the previous character can be matched zero or more times,
+'+', which matches one or more times
+'{m,n}', where m and n are decimal numbers.This means there must be at least m repetitions, and at most n
+
+Compiling Regular Expressions:
+so r"\n" is a two-character string containing ‘\’ and ‘n’
+
+Problems:
+Sometimes, using the re module at all is a mistake.
+
+match() versus search():
+The match() function only checks if the RE matches at the beginning of the string, while search() will scan
+forward through the string for a match.
+
+Greedy versus Non-Greedy:
+The naive pattern for matching a single HTML tag doesn’t work because of the greedy nature of '.*'.
+
+Not using re.VERBOSE:
+Whitespace in the regular expression that isn’t inside a character
+class is ignored. This means that an expression such as 'dog | cat' is equivalent to the less readable 'dog|cat',
+but '[a b]' will still match the characters ‘a’, ‘b’, or a space.
+
+
